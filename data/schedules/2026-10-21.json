@@ -7,12 +7,12 @@
       "homeTeam": {
         "name": "Tasmania JackJumpers",
         "abbreviation": "TAS",
-        "record": "4-1"
+        "record": "5-2"
       },
       "awayTeam": {
         "name": "Brisbane Bullets",
         "abbreviation": "BRI",
-        "record": "2-3"
+        "record": "3-3"
       },
       "startTime": "2026-10-21T08:30Z",
       "timeET": "4:30 AM ET",
@@ -25,12 +25,12 @@
       "homeTeam": {
         "name": "Como",
         "abbreviation": "COMO",
-        "record": "1-0-0"
+        "record": "1-0-1"
       },
       "awayTeam": {
         "name": "Manchester United",
         "abbreviation": "MAN",
-        "record": "1-0-0"
+        "record": "1-0-1"
       },
       "startTime": "2026-10-21T16:45Z",
       "timeET": "12:45 PM ET",
@@ -48,12 +48,12 @@
       "homeTeam": {
         "name": "Lille",
         "abbreviation": "LILL",
-        "record": "0-0-1"
+        "record": "0-0-2"
       },
       "awayTeam": {
         "name": "Galatasaray",
         "abbreviation": "GAL",
-        "record": "0-0-1"
+        "record": "0-0-2"
       },
       "startTime": "2026-10-21T16:45Z",
       "timeET": "12:45 PM ET",
@@ -71,16 +71,17 @@
       "homeTeam": {
         "name": "Levante",
         "abbreviation": "LEV",
-        "record": "1-2-3"
+        "record": "1-4-3"
       },
       "awayTeam": {
         "name": "Athletic Club",
         "abbreviation": "ATH",
-        "record": "2-2-2"
+        "record": "2-3-2"
       },
       "startTime": "2026-10-21T18:00Z",
       "timeET": "2:00 PM ET",
       "channels": [
+        "ESPN Deportes",
         "ESPN+"
       ],
       "status": "upcoming",
@@ -94,12 +95,12 @@
       "homeTeam": {
         "name": "Aston Villa",
         "abbreviation": "AVL",
-        "record": "1-0-0"
+        "record": "2-0-0"
       },
       "awayTeam": {
         "name": "Viking FK",
-        "abbreviation": "VIK",
-        "record": "0-0-1"
+        "abbreviation": "VFK",
+        "record": "0-1-1"
       },
       "startTime": "2026-10-21T19:00Z",
       "timeET": "3:00 PM ET",
@@ -117,12 +118,12 @@
       "homeTeam": {
         "name": "Bayern Munich",
         "abbreviation": "MUN",
-        "record": "1-0-0"
+        "record": "1-1-0"
       },
       "awayTeam": {
         "name": "Arsenal",
         "abbreviation": "ARS",
-        "record": "1-0-0"
+        "record": "2-0-0"
       },
       "startTime": "2026-10-21T19:00Z",
       "timeET": "3:00 PM ET",
@@ -140,12 +141,12 @@
       "homeTeam": {
         "name": "Club Brugge",
         "abbreviation": "BRU",
-        "record": "0-0-1"
+        "record": "1-0-1"
       },
       "awayTeam": {
         "name": "Lens",
         "abbreviation": "RCL",
-        "record": "1-0-0"
+        "record": "1-0-1"
       },
       "startTime": "2026-10-21T19:00Z",
       "timeET": "3:00 PM ET",
@@ -163,16 +164,17 @@
       "homeTeam": {
         "name": "Internazionale",
         "abbreviation": "INT",
-        "record": "0-0-1"
+        "record": "0-0-2"
       },
       "awayTeam": {
         "name": "Shakhtar Donetsk",
         "abbreviation": "SHK",
-        "record": "0-1-0"
+        "record": "1-1-0"
       },
       "startTime": "2026-10-21T19:00Z",
       "timeET": "3:00 PM ET",
       "channels": [
+        "CBSSN",
         "Paramount+"
       ],
       "status": "upcoming",
@@ -186,12 +188,12 @@
       "homeTeam": {
         "name": "Real Betis",
         "abbreviation": "BET",
-        "record": "1-0-0"
+        "record": "2-0-0"
       },
       "awayTeam": {
         "name": "Feyenoord Rotterdam",
         "abbreviation": "FEY",
-        "record": "0-0-1"
+        "record": "1-0-1"
       },
       "startTime": "2026-10-21T19:00Z",
       "timeET": "3:00 PM ET",
@@ -209,12 +211,12 @@
       "homeTeam": {
         "name": "Real Madrid",
         "abbreviation": "RMA",
-        "record": "1-0-0"
+        "record": "2-0-0"
       },
       "awayTeam": {
         "name": "RB Leipzig",
         "abbreviation": "RBL",
-        "record": "0-0-1"
+        "record": "1-0-1"
       },
       "startTime": "2026-10-21T19:00Z",
       "timeET": "3:00 PM ET",
@@ -232,12 +234,12 @@
       "homeTeam": {
         "name": "Sporting CP",
         "abbreviation": "SCP",
-        "record": "1-0-0"
+        "record": "2-0-0"
       },
       "awayTeam": {
         "name": "LASK Linz",
         "abbreviation": "LAS",
-        "record": "0-0-1"
+        "record": "0-0-2"
       },
       "startTime": "2026-10-21T19:00Z",
       "timeET": "3:00 PM ET",
@@ -295,12 +297,12 @@
       "homeTeam": {
         "name": "FC Cincinnati",
         "abbreviation": "CIN",
-        "record": "9-9-9"
+        "record": "9-9-11"
       },
       "awayTeam": {
         "name": "D.C. United",
         "abbreviation": "DC",
-        "record": "6-12-9"
+        "record": "7-12-10"
       },
       "startTime": "2026-10-21T23:00Z",
       "timeET": "7:00 PM ET",
@@ -378,12 +380,12 @@
       "homeTeam": {
         "name": "Buffalo Sabres",
         "abbreviation": "BUF",
-        "record": "2-3-0"
+        "record": "4-3-2"
       },
       "awayTeam": {
         "name": "Philadelphia Flyers",
         "abbreviation": "PHI",
-        "record": "0-4-2"
+        "record": "1-6-3"
       },
       "startTime": "2026-10-21T23:30Z",
       "timeET": "7:30 PM ET",
@@ -401,12 +403,12 @@
       "homeTeam": {
         "name": "Ottawa Senators",
         "abbreviation": "OTT",
-        "record": "4-1-0"
+        "record": "6-3-0"
       },
       "awayTeam": {
         "name": "Florida Panthers",
         "abbreviation": "FLA",
-        "record": "2-1-2"
+        "record": "5-2-2"
       },
       "startTime": "2026-10-21T23:30Z",
       "timeET": "7:30 PM ET",
@@ -457,12 +459,36 @@
       "venue": "Smoothie King Center, New Orleans, LA"
     },
     {
+      "id": "wnba-401918307",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Atlanta Dream",
+        "abbreviation": "ATL",
+        "record": "30-14"
+      },
+      "awayTeam": {
+        "name": "Golden State Valkyries",
+        "abbreviation": "GS",
+        "record": "32-12"
+      },
+      "startTime": "2026-10-22T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "USA Net",
+        "CNBC",
+        "Peacock"
+      ],
+      "status": "upcoming",
+      "venue": "State Farm Arena, Atlanta, GA",
+      "isNational": true
+    },
+    {
       "id": "cfb-401871070",
       "sport": "College Football",
       "homeTeam": {
         "name": "Sam Houston Bearkats",
         "abbreviation": "SHSU",
-        "record": "1-4"
+        "record": "1-5"
       },
       "awayTeam": {
         "name": "New Mexico State Aggies",
@@ -510,9 +536,12 @@
       },
       "startTime": "2026-10-22T00:30Z",
       "timeET": "8:30 PM ET",
-      "channels": [],
+      "channels": [
+        "beIn Sports"
+      ],
       "status": "upcoming",
       "venue": "Allianz Parque, Sao Paulo",
+      "isNational": true,
       "tournament": "Copa Libertadores"
     },
     {
@@ -521,12 +550,12 @@
       "homeTeam": {
         "name": "Atlas",
         "abbreviation": "ATS",
-        "record": "5-3-3"
+        "record": "6-3-3"
       },
       "awayTeam": {
         "name": "América",
         "abbreviation": "AME",
-        "record": "6-3-1"
+        "record": "7-3-1"
       },
       "startTime": "2026-10-22T01:00Z",
       "timeET": "9:00 PM ET",
@@ -541,12 +570,12 @@
       "homeTeam": {
         "name": "Puebla",
         "abbreviation": "PUE",
-        "record": "4-3-4"
+        "record": "4-4-4"
       },
       "awayTeam": {
         "name": "Monterrey",
         "abbreviation": "MTY",
-        "record": "4-2-4"
+        "record": "5-2-4"
       },
       "startTime": "2026-10-22T01:00Z",
       "timeET": "9:00 PM ET",
@@ -561,12 +590,12 @@
       "homeTeam": {
         "name": "Toluca",
         "abbreviation": "TOL",
-        "record": "6-2-3"
+        "record": "6-3-3"
       },
       "awayTeam": {
         "name": "Tijuana",
         "abbreviation": "TIJ",
-        "record": "4-3-3"
+        "record": "4-4-3"
       },
       "startTime": "2026-10-22T01:00Z",
       "timeET": "9:00 PM ET",
@@ -641,12 +670,12 @@
       "homeTeam": {
         "name": "Pachuca",
         "abbreviation": "PAC",
-        "record": "3-3-4"
+        "record": "3-4-5"
       },
       "awayTeam": {
         "name": "Cruz Azul",
         "abbreviation": "CAZ",
-        "record": "5-1-4"
+        "record": "6-2-4"
       },
       "startTime": "2026-10-22T03:00Z",
       "timeET": "11:00 PM ET",
@@ -661,20 +690,20 @@
       "homeTeam": {
         "name": "Santos",
         "abbreviation": "SAN",
-        "record": "3-1-6"
+        "record": "5-1-6"
       },
       "awayTeam": {
         "name": "Pumas UNAM",
         "abbreviation": "UNAM",
-        "record": "3-3-4"
+        "record": "4-4-4"
       },
-      "startTime": "2026-10-22T03:00Z",
-      "timeET": "11:00 PM ET",
+      "startTime": "2026-10-22T03:10Z",
+      "timeET": "11:10 PM ET",
       "channels": [],
       "status": "upcoming",
       "venue": "Estadio Corona, Torreón",
       "tournament": "Liga MX"
     }
   ],
-  "lastUpdated": "2026-10-11T10:00:13.354Z"
+  "lastUpdated": "2026-10-19T03:30:07.148Z"
 }

@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-21",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "33 events across International Basketball, Soccer, NBA, NHL, WNBA, College Football."
+    },
+    {
+      "title": "Game 1",
+      "body": "Brisbane Bullets at Tasmania JackJumpers 4:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Manchester United at Como 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Galatasaray at Lille 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 4",
+      "body": "Athletic Club at Levante 2:00 PM ET on ESPN Deportes / ESPN+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Viking FK at Aston Villa 3:00 PM ET on Paramount+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png"
+  ],
+  "generatedAt": "2026-10-19T03:39:19.606Z"
+}
