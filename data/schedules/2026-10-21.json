@@ -17,7 +17,12 @@
       "startTime": "2026-10-21T08:30Z",
       "timeET": "4:30 AM ET",
       "channels": [],
-      "status": "upcoming"
+      "status": "live",
+      "currentPeriod": "4",
+      "score": {
+        "home": 89,
+        "away": 69
+      }
     },
     {
       "id": "ucl-401915395",
@@ -266,7 +271,9 @@
       },
       "startTime": "2026-10-21T23:00Z",
       "timeET": "7:00 PM ET",
-      "channels": [],
+      "channels": [
+        "NBA League Pass"
+      ],
       "status": "upcoming",
       "venue": "Kia Center, Orlando, FL"
     },
@@ -286,7 +293,8 @@
       "startTime": "2026-10-21T23:00Z",
       "timeET": "7:00 PM ET",
       "channels": [
-        "MNMT"
+        "MNMT",
+        "NBA League Pass"
       ],
       "status": "upcoming",
       "venue": "Capital One Arena, Washington, DC"
@@ -351,7 +359,9 @@
       },
       "startTime": "2026-10-21T23:30Z",
       "timeET": "7:30 PM ET",
-      "channels": [],
+      "channels": [
+        "NBA League Pass"
+      ],
       "status": "upcoming",
       "venue": "Barclays Center, Brooklyn, NY"
     },
@@ -370,7 +380,9 @@
       },
       "startTime": "2026-10-21T23:30Z",
       "timeET": "7:30 PM ET",
-      "channels": [],
+      "channels": [
+        "NBA League Pass"
+      ],
       "status": "upcoming",
       "venue": "Scotiabank Arena, Toronto, ON"
     },
@@ -385,7 +397,7 @@
       "awayTeam": {
         "name": "Philadelphia Flyers",
         "abbreviation": "PHI",
-        "record": "1-6-3"
+        "record": "2-6-3"
       },
       "startTime": "2026-10-21T23:30Z",
       "timeET": "7:30 PM ET",
@@ -435,7 +447,9 @@
       },
       "startTime": "2026-10-22T00:00Z",
       "timeET": "8:00 PM ET",
-      "channels": [],
+      "channels": [
+        "NBA League Pass"
+      ],
       "status": "upcoming",
       "venue": "FedExForum, Memphis, TN"
     },
@@ -454,7 +468,9 @@
       },
       "startTime": "2026-10-22T00:00Z",
       "timeET": "8:00 PM ET",
-      "channels": [],
+      "channels": [
+        "NBA League Pass"
+      ],
       "status": "upcoming",
       "venue": "Smoothie King Center, New Orleans, LA"
     },
@@ -475,8 +491,7 @@
       "timeET": "8:00 PM ET",
       "channels": [
         "USA Net",
-        "CNBC",
-        "Peacock"
+        "CNBC"
       ],
       "status": "upcoming",
       "venue": "State Farm Arena, Atlanta, GA",
@@ -519,7 +534,9 @@
       },
       "startTime": "2026-10-22T00:30Z",
       "timeET": "8:30 PM ET",
-      "channels": [],
+      "channels": [
+        "NBA League Pass"
+      ],
       "status": "upcoming",
       "venue": "Toyota Center (Houston), Houston, TX"
     },
@@ -641,7 +658,9 @@
       },
       "startTime": "2026-10-22T02:00Z",
       "timeET": "10:00 PM ET",
-      "channels": [],
+      "channels": [
+        "NBA League Pass"
+      ],
       "status": "upcoming",
       "venue": "Moda Center, Portland, OR"
     },
@@ -660,7 +679,9 @@
       },
       "startTime": "2026-10-22T02:30Z",
       "timeET": "10:30 PM ET",
-      "channels": [],
+      "channels": [
+        "NBA League Pass"
+      ],
       "status": "upcoming",
       "venue": "Intuit Dome, Inglewood, CA"
     },
@@ -677,8 +698,8 @@
         "abbreviation": "CAZ",
         "record": "6-2-4"
       },
-      "startTime": "2026-10-22T03:00Z",
-      "timeET": "11:00 PM ET",
+      "startTime": "2026-10-22T03:10Z",
+      "timeET": "11:10 PM ET",
       "channels": [],
       "status": "upcoming",
       "venue": "Estadio Hidalgo, Pachuca",
@@ -705,5 +726,5 @@
       "tournament": "Liga MX"
     }
   ],
-  "lastUpdated": "2026-10-19T03:30:07.148Z"
+  "lastUpdated": "2026-10-21T10:00:06.745Z"
 }
