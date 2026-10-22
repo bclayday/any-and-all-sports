@@ -33,7 +33,7 @@
       "channels": [
         "Golf Chnl"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "LPGA"
     },
@@ -49,10 +49,9 @@
       "startTime": "2026-10-22T04:00Z",
       "timeET": "12:00 AM ET",
       "channels": [
-        "Golf Chnl",
-        "NBC Sports"
+        "Golf Chnl"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "DP World Tour"
     },
@@ -72,7 +71,12 @@
       "startTime": "2026-10-22T08:30Z",
       "timeET": "4:30 AM ET",
       "channels": [],
-      "status": "upcoming"
+      "status": "live",
+      "currentPeriod": "4",
+      "score": {
+        "home": 62,
+        "away": 87
+      }
     },
     {
       "id": "uecl-401915846",
@@ -182,6 +186,7 @@
       "startTime": "2026-10-22T16:45Z",
       "timeET": "12:45 PM ET",
       "channels": [
+        "CBSSN",
         "Paramount+"
       ],
       "status": "upcoming",
@@ -504,6 +509,7 @@
       "startTime": "2026-10-22T19:00Z",
       "timeET": "3:00 PM ET",
       "channels": [
+        "CBSSN",
         "Paramount+"
       ],
       "status": "upcoming",
@@ -908,7 +914,7 @@
       "homeTeam": {
         "name": "Philadelphia 76ers",
         "abbreviation": "PHI",
-        "record": "0-0"
+        "record": "1-0"
       },
       "awayTeam": {
         "name": "Cleveland Cavaliers",
@@ -974,7 +980,7 @@
       "homeTeam": {
         "name": "Boston Bruins",
         "abbreviation": "BOS",
-        "record": "7-2-0"
+        "record": "7-2-1"
       },
       "awayTeam": {
         "name": "Nashville Predators",
@@ -998,12 +1004,12 @@
       "homeTeam": {
         "name": "Toronto Maple Leafs",
         "abbreviation": "TOR",
-        "record": "3-4-2"
+        "record": "5-4-2"
       },
       "awayTeam": {
         "name": "New York Rangers",
         "abbreviation": "NYR",
-        "record": "6-3-1"
+        "record": "7-3-1"
       },
       "startTime": "2026-10-22T23:00Z",
       "timeET": "7:00 PM ET",
@@ -1021,12 +1027,12 @@
       "homeTeam": {
         "name": "Ottawa Senators",
         "abbreviation": "OTT",
-        "record": "6-3-0"
+        "record": "7-3-0"
       },
       "awayTeam": {
         "name": "San Jose Sharks",
         "abbreviation": "SJ",
-        "record": "4-3-1"
+        "record": "5-4-1"
       },
       "startTime": "2026-10-22T23:00Z",
       "timeET": "7:00 PM ET",
@@ -1044,12 +1050,12 @@
       "homeTeam": {
         "name": "New Jersey Devils",
         "abbreviation": "NJ",
-        "record": "4-4-0"
+        "record": "5-4-0"
       },
       "awayTeam": {
         "name": "Anaheim Ducks",
         "abbreviation": "ANA",
-        "record": "4-3-0"
+        "record": "4-5-0"
       },
       "startTime": "2026-10-22T23:00Z",
       "timeET": "7:00 PM ET",
@@ -1069,12 +1075,12 @@
       "homeTeam": {
         "name": "Pittsburgh Penguins",
         "abbreviation": "PIT",
-        "record": "3-5-1"
+        "record": "3-6-1"
       },
       "awayTeam": {
         "name": "Florida Panthers",
         "abbreviation": "FLA",
-        "record": "5-2-2"
+        "record": "5-3-2"
       },
       "startTime": "2026-10-22T23:00Z",
       "timeET": "7:00 PM ET",
@@ -1114,12 +1120,12 @@
       "homeTeam": {
         "name": "New York Islanders",
         "abbreviation": "NYI",
-        "record": "4-3-1"
+        "record": "5-3-1"
       },
       "awayTeam": {
         "name": "Los Angeles Kings",
         "abbreviation": "LA",
-        "record": "0-4-2"
+        "record": "1-4-2"
       },
       "startTime": "2026-10-22T23:30Z",
       "timeET": "7:30 PM ET",
@@ -1138,12 +1144,12 @@
       "homeTeam": {
         "name": "St. Louis Blues",
         "abbreviation": "STL",
-        "record": "3-4-1"
+        "record": "4-4-1"
       },
       "awayTeam": {
         "name": "Vegas Golden Knights",
         "abbreviation": "VGK",
-        "record": "8-2-0"
+        "record": "8-3-0"
       },
       "startTime": "2026-10-23T00:00Z",
       "timeET": "8:00 PM ET",
@@ -1163,12 +1169,12 @@
       "homeTeam": {
         "name": "Dallas Stars",
         "abbreviation": "DAL",
-        "record": "4-3-1"
+        "record": "5-3-1"
       },
       "awayTeam": {
         "name": "Winnipeg Jets",
         "abbreviation": "WPG",
-        "record": "4-2-2"
+        "record": "4-3-2"
       },
       "startTime": "2026-10-23T00:00Z",
       "timeET": "8:00 PM ET",
@@ -1235,7 +1241,7 @@
       "awayTeam": {
         "name": "Minnesota Wild",
         "abbreviation": "MIN",
-        "record": "6-2-1"
+        "record": "6-2-2"
       },
       "startTime": "2026-10-23T01:00Z",
       "timeET": "9:00 PM ET",
@@ -1253,12 +1259,12 @@
       "homeTeam": {
         "name": "Edmonton Oilers",
         "abbreviation": "EDM",
-        "record": "6-1-1"
+        "record": "7-1-1"
       },
       "awayTeam": {
         "name": "Carolina Hurricanes",
         "abbreviation": "CAR",
-        "record": "7-2-1"
+        "record": "8-2-1"
       },
       "startTime": "2026-10-23T01:00Z",
       "timeET": "9:00 PM ET",
@@ -1276,7 +1282,7 @@
       "homeTeam": {
         "name": "Oklahoma City Thunder",
         "abbreviation": "OKC",
-        "record": "0-0"
+        "record": "1-0"
       },
       "awayTeam": {
         "name": "Denver Nuggets",
@@ -1298,12 +1304,12 @@
       "homeTeam": {
         "name": "Seattle Kraken",
         "abbreviation": "SEA",
-        "record": "5-3-1"
+        "record": "6-3-1"
       },
       "awayTeam": {
         "name": "Utah Mammoth",
         "abbreviation": "UTA",
-        "record": "6-3-0"
+        "record": "7-3-0"
       },
       "startTime": "2026-10-23T02:00Z",
       "timeET": "10:00 PM ET",
@@ -1322,12 +1328,12 @@
       "homeTeam": {
         "name": "Vancouver Canucks",
         "abbreviation": "VAN",
-        "record": "2-7-1"
+        "record": "2-8-1"
       },
       "awayTeam": {
         "name": "Detroit Red Wings",
         "abbreviation": "DET",
-        "record": "3-3-2"
+        "record": "3-3-3"
       },
       "startTime": "2026-10-23T02:00Z",
       "timeET": "10:00 PM ET",
@@ -1340,5 +1346,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-10-19T03:30:07.787Z"
+  "lastUpdated": "2026-10-22T10:00:06.057Z"
 }
