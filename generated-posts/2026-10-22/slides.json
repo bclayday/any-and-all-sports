@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-22",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "59 events across Golf, International Basketball, Soccer, NBA, College Football, NHL, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Butterfield Bermuda Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at BMW Ladies Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "DP World Tour at Genesis Championship 12:00 AM ET on Golf Chnl / NBC Sports"
+    },
+    {
+      "title": "Game 4",
+      "body": "Sydney Kings at Illawarra Hawks 4:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Panathinaikos at Kairat Almaty 10:30 AM ET on Paramount+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png",
+    "slide-10.png",
+    "slide-11.png",
+    "slide-12.png"
+  ],
+  "generatedAt": "2026-10-19T03:42:20.137Z"
+}
