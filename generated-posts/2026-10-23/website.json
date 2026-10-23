@@ -1,0 +1,875 @@
+{
+  "date": "2026-10-23",
+  "schedule": {
+    "date": "2026-10-23",
+    "games": [
+      {
+        "id": "pga-401850917",
+        "sport": "Golf",
+        "homeTeam": {
+          "name": "Butterfield Bermuda Championship"
+        },
+        "awayTeam": {
+          "name": "PGA Tour"
+        },
+        "startTime": "2026-10-22T04:00Z",
+        "timeET": "12:00 AM ET",
+        "channels": [
+          "Golf Chnl"
+        ],
+        "status": "upcoming",
+        "isNational": true,
+        "tournament": "PGA Tour"
+      },
+      {
+        "id": "lpga-401835173",
+        "sport": "Golf",
+        "homeTeam": {
+          "name": "BMW Ladies Championship"
+        },
+        "awayTeam": {
+          "name": "LPGA"
+        },
+        "startTime": "2026-10-22T04:00Z",
+        "timeET": "12:00 AM ET",
+        "channels": [
+          "Golf Chnl"
+        ],
+        "status": "upcoming",
+        "isNational": true,
+        "tournament": "LPGA"
+      },
+      {
+        "id": "dpwt-401822707",
+        "sport": "Golf",
+        "homeTeam": {
+          "name": "Genesis Championship"
+        },
+        "awayTeam": {
+          "name": "DP World Tour"
+        },
+        "startTime": "2026-10-22T04:00Z",
+        "timeET": "12:00 AM ET",
+        "channels": [
+          "Golf Chnl",
+          "NBC Sports"
+        ],
+        "status": "upcoming",
+        "isNational": true,
+        "tournament": "DP World Tour"
+      },
+      {
+        "id": "champs-401832052",
+        "sport": "Golf",
+        "homeTeam": {
+          "name": "Stifel Charity Classic"
+        },
+        "awayTeam": {
+          "name": "Champions Tour"
+        },
+        "startTime": "2026-10-23T04:00Z",
+        "timeET": "12:00 AM ET",
+        "channels": [
+          "Golf Chnl"
+        ],
+        "status": "upcoming",
+        "isNational": true,
+        "tournament": "Champions Tour"
+      },
+      {
+        "id": "nbl-401875274",
+        "sport": "International Basketball",
+        "homeTeam": {
+          "name": "Perth Wildcats",
+          "abbreviation": "PER",
+          "record": "4-2"
+        },
+        "awayTeam": {
+          "name": "Melbourne United",
+          "abbreviation": "MEL",
+          "record": "3-4"
+        },
+        "startTime": "2026-10-23T10:30Z",
+        "timeET": "6:30 AM ET",
+        "channels": [],
+        "status": "upcoming"
+      },
+      {
+        "id": "f1-600057446",
+        "sport": "F1",
+        "homeTeam": {
+          "name": "MSC Cruises United States Grand Prix"
+        },
+        "awayTeam": {
+          "name": "Formula 1"
+        },
+        "startTime": "2026-10-23T17:30Z",
+        "timeET": "1:30 PM ET",
+        "channels": [
+          "Apple TV"
+        ],
+        "status": "upcoming",
+        "isNational": true
+      },
+      {
+        "id": "eredivisie-401875574",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Go Ahead Eagles",
+          "abbreviation": "GAE",
+          "record": "2-5-2"
+        },
+        "awayTeam": {
+          "name": "Telstar",
+          "abbreviation": "TEL",
+          "record": "1-3-5"
+        },
+        "startTime": "2026-10-23T18:00Z",
+        "timeET": "2:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "De Adelaarshorst, Deventer",
+        "tournament": "Eredivisie"
+      },
+      {
+        "id": "bundesliga-401884761",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "VfB Stuttgart",
+          "abbreviation": "VFB",
+          "record": "2-0-4"
+        },
+        "awayTeam": {
+          "name": "Borussia Mönchengladbach",
+          "abbreviation": "BMG",
+          "record": "0-0-6"
+        },
+        "startTime": "2026-10-23T18:30Z",
+        "timeET": "2:30 PM ET",
+        "channels": [
+          "Fandango"
+        ],
+        "status": "upcoming",
+        "venue": "MHPArena, Stuttgart",
+        "isNational": true,
+        "tournament": "Bundesliga"
+      },
+      {
+        "id": "seriea-401874957",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Torino",
+          "abbreviation": "TOR",
+          "record": "2-1-3"
+        },
+        "awayTeam": {
+          "name": "Monza",
+          "abbreviation": "MON",
+          "record": "1-1-4"
+        },
+        "startTime": "2026-10-23T18:45Z",
+        "timeET": "2:45 PM ET",
+        "channels": [
+          "Paramount+"
+        ],
+        "status": "upcoming",
+        "venue": "Stadio Olimpico Grande Torino, Torino",
+        "isNational": true,
+        "tournament": "Serie A"
+      },
+      {
+        "id": "ligue1-401876428",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Brest",
+          "abbreviation": "BRE",
+          "record": "2-3-2"
+        },
+        "awayTeam": {
+          "name": "Nice",
+          "abbreviation": "NICE",
+          "record": "2-2-3"
+        },
+        "startTime": "2026-10-23T18:45Z",
+        "timeET": "2:45 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Stade Francis-Le Blé, Brest",
+        "tournament": "Ligue 1"
+      },
+      {
+        "id": "epl-401879253",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Ipswich Town",
+          "abbreviation": "IPS",
+          "record": "3-0-4"
+        },
+        "awayTeam": {
+          "name": "Nottingham Forest",
+          "abbreviation": "NFO",
+          "record": "1-2-4"
+        },
+        "startTime": "2026-10-23T19:00Z",
+        "timeET": "3:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Portman Road, Ipswich",
+        "tournament": "Premier League"
+      },
+      {
+        "id": "laliga-401882836",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Alavés",
+          "abbreviation": "ALA",
+          "record": "3-2-4"
+        },
+        "awayTeam": {
+          "name": "Málaga",
+          "abbreviation": "MCF",
+          "record": "0-4-5"
+        },
+        "startTime": "2026-10-23T19:00Z",
+        "timeET": "3:00 PM ET",
+        "channels": [
+          "ESPN Deportes",
+          "ESPN+"
+        ],
+        "status": "upcoming",
+        "venue": "Mendizorrotza, Vitoria-Gasteiz",
+        "isNational": true,
+        "tournament": "La Liga"
+      },
+      {
+        "id": "eflchamp-401880207",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Bolton Wanderers",
+          "abbreviation": "BOL",
+          "record": "4-2-5"
+        },
+        "awayTeam": {
+          "name": "Middlesbrough",
+          "abbreviation": "MID",
+          "record": "6-4-1"
+        },
+        "startTime": "2026-10-23T19:00Z",
+        "timeET": "3:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Toughsheet Community Stadium, Bolton",
+        "tournament": "EFL Championship"
+      },
+      {
+        "id": "primeiraliga-401885412",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Vitória de Guimaraes",
+          "abbreviation": "VSC",
+          "record": "1-2-5"
+        },
+        "awayTeam": {
+          "name": "Maritimo",
+          "abbreviation": "MAR",
+          "record": "2-2-4"
+        },
+        "startTime": "2026-10-23T19:45Z",
+        "timeET": "3:45 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Estádio D. Afonso Henriques, Guimarães",
+        "tournament": "Primeira Liga"
+      },
+      {
+        "id": "nba-401909848",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Milwaukee Bucks",
+          "abbreviation": "MIL",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Chicago Bulls",
+          "abbreviation": "CHI",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-23T20:00Z",
+        "timeET": "4:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Fiserv Forum, Milwaukee, WI"
+      },
+      {
+        "id": "nba-401909095",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Boston Celtics",
+          "abbreviation": "BOS",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "New York Knicks",
+          "abbreviation": "NY",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-23T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "Amazon Prime"
+        ],
+        "status": "upcoming",
+        "venue": "TD Garden, Boston, MA",
+        "isNational": true
+      },
+      {
+        "id": "nba-401909843",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Charlotte Hornets",
+          "abbreviation": "CHA",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Atlanta Hawks",
+          "abbreviation": "ATL",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-23T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Spectrum Center, Charlotte, NC"
+      },
+      {
+        "id": "nba-401909844",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Indiana Pacers",
+          "abbreviation": "IND",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Dallas Mavericks",
+          "abbreviation": "DAL",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-23T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Gainbridge Fieldhouse, Indianapolis, IN"
+      },
+      {
+        "id": "nba-401909845",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Orlando Magic",
+          "abbreviation": "ORL",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Minnesota Timberwolves",
+          "abbreviation": "MIN",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-23T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Kia Center, Orlando, FL"
+      },
+      {
+        "id": "nba-401909846",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Washington Wizards",
+          "abbreviation": "WSH",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Toronto Raptors",
+          "abbreviation": "TOR",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-23T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "MNMT"
+        ],
+        "status": "upcoming",
+        "venue": "Capital One Arena, Washington, DC"
+      },
+      {
+        "id": "cfb-401858271",
+        "sport": "College Football",
+        "homeTeam": {
+          "name": "Virginia Cavaliers",
+          "abbreviation": "UVA",
+          "record": "4-3"
+        },
+        "awayTeam": {
+          "name": "Duke Blue Devils",
+          "abbreviation": "DUKE",
+          "record": "4-2"
+        },
+        "startTime": "2026-10-23T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN"
+        ],
+        "status": "upcoming",
+        "venue": "Scott Stadium, Charlottesville, VA",
+        "isNational": true
+      },
+      {
+        "id": "cfb-401861965",
+        "sport": "College Football",
+        "homeTeam": {
+          "name": "UConn Huskies",
+          "abbreviation": "CONN",
+          "record": "3-3"
+        },
+        "awayTeam": {
+          "name": "Massachusetts Minutemen",
+          "abbreviation": "MASS",
+          "record": "4-3"
+        },
+        "startTime": "2026-10-23T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "CBSSN"
+        ],
+        "status": "upcoming",
+        "venue": "Pratt & Whitney Stadium, East Hartford, CT",
+        "isNational": true
+      },
+      {
+        "id": "nba-401909847",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Miami Heat",
+          "abbreviation": "MIA",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Detroit Pistons",
+          "abbreviation": "DET",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-24T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Kaseya Center, Miami, FL"
+      },
+      {
+        "id": "mlb-401908042",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "record": "103-59"
+        },
+        "awayTeam": {
+          "name": "Rays/Guardians",
+          "abbreviation": "Rays/Guardians"
+        },
+        "startTime": "2026-10-24T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "Fox"
+        ],
+        "status": "upcoming",
+        "venue": "American Family Field, Milwaukee, Wisconsin",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892564",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Chicago Blackhawks",
+          "abbreviation": "CHI",
+          "record": "3-6-0"
+        },
+        "awayTeam": {
+          "name": "Montreal Canadiens",
+          "abbreviation": "MTL",
+          "record": "4-3-1"
+        },
+        "startTime": "2026-10-24T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "NHL Net",
+          "CHSN"
+        ],
+        "status": "upcoming",
+        "venue": "United Center, Chicago, IL",
+        "isNational": true
+      },
+      {
+        "id": "nwsl-401854027",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Chicago Stars FC",
+          "abbreviation": "CHI",
+          "record": "5-2-21"
+        },
+        "awayTeam": {
+          "name": "Houston Dash",
+          "abbreviation": "HOU",
+          "record": "8-6-14"
+        },
+        "startTime": "2026-10-24T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "NWSL+"
+        ],
+        "status": "upcoming",
+        "venue": "Northwestern Medicine Field at Martin Stadium, Evanston",
+        "isNational": true,
+        "tournament": "NWSL"
+      },
+      {
+        "id": "cfb-401862808",
+        "sport": "College Football",
+        "homeTeam": {
+          "name": "Tulsa Golden Hurricane",
+          "abbreviation": "TLSA",
+          "record": "4-3"
+        },
+        "awayTeam": {
+          "name": "Army Black Knights",
+          "abbreviation": "ARMY",
+          "record": "4-2"
+        },
+        "startTime": "2026-10-24T00:30Z",
+        "timeET": "8:30 PM ET",
+        "channels": [
+          "ESPN2"
+        ],
+        "status": "upcoming",
+        "venue": "H. A. Chapman Stadium, Tulsa, OK",
+        "isNational": true
+      },
+      {
+        "id": "cfb-401864525",
+        "sport": "College Football",
+        "homeTeam": {
+          "name": "Wyoming Cowboys",
+          "abbreviation": "WYO",
+          "record": "4-3"
+        },
+        "awayTeam": {
+          "name": "Air Force Falcons",
+          "abbreviation": "AFA",
+          "record": "5-1"
+        },
+        "startTime": "2026-10-24T01:00Z",
+        "timeET": "9:00 PM ET",
+        "channels": [
+          "CW"
+        ],
+        "status": "upcoming",
+        "venue": "War Memorial Stadium, Laramie, WY",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892565",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Colorado Avalanche",
+          "abbreviation": "COL",
+          "record": "5-2-1"
+        },
+        "awayTeam": {
+          "name": "Tampa Bay Lightning",
+          "abbreviation": "TB",
+          "record": "6-2-0"
+        },
+        "startTime": "2026-10-24T01:00Z",
+        "timeET": "9:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "The Spot - MTN",
+          "Altitude Sports"
+        ],
+        "status": "upcoming",
+        "venue": "Ball Arena, Denver, CO",
+        "isNational": true
+      },
+      {
+        "id": "ligamx-401876928",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Necaxa",
+          "abbreviation": "NCX",
+          "record": "2-3-7"
+        },
+        "awayTeam": {
+          "name": "FC Juárez",
+          "abbreviation": "JUA",
+          "record": "1-1-10"
+        },
+        "startTime": "2026-10-24T01:00Z",
+        "timeET": "9:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Estadio Victoria, Aguascalientes",
+        "tournament": "Liga MX"
+      },
+      {
+        "id": "nba-401909096",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "San Antonio Spurs",
+          "abbreviation": "SA",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Houston Rockets",
+          "abbreviation": "HOU",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-24T01:30Z",
+        "timeET": "9:30 PM ET",
+        "channels": [
+          "Amazon Prime"
+        ],
+        "status": "upcoming",
+        "venue": "Moody Center, Austin, TX",
+        "isNational": true
+      },
+      {
+        "id": "nba-401909849",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Utah Jazz",
+          "abbreviation": "UTAH",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "New Orleans Pelicans",
+          "abbreviation": "NO",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-24T01:30Z",
+        "timeET": "9:30 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Delta Center, Salt Lake City, UT"
+      },
+      {
+        "id": "nwsl-401854028",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Utah Royals",
+          "abbreviation": "UTA",
+          "record": "14-4-10"
+        },
+        "awayTeam": {
+          "name": "Seattle Reign FC",
+          "abbreviation": "SEA",
+          "record": "13-4-11"
+        },
+        "startTime": "2026-10-24T01:30Z",
+        "timeET": "9:30 PM ET",
+        "channels": [
+          "NWSL+"
+        ],
+        "status": "upcoming",
+        "venue": "America First Field, Sandy, Utah",
+        "isNational": true,
+        "tournament": "NWSL"
+      },
+      {
+        "id": "nba-401909850",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Golden State Warriors",
+          "abbreviation": "GS",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Memphis Grizzlies",
+          "abbreviation": "MEM",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-24T02:00Z",
+        "timeET": "10:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Chase Center, San Francisco, CA"
+      },
+      {
+        "id": "nba-401909851",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Los Angeles Lakers",
+          "abbreviation": "LAL",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "LA Clippers",
+          "abbreviation": "LAC",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-24T02:00Z",
+        "timeET": "10:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "crypto.com Arena, Los Angeles, CA"
+      },
+      {
+        "id": "nba-401909852",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Sacramento Kings",
+          "abbreviation": "SAC",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Portland Trail Blazers",
+          "abbreviation": "POR",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-24T02:00Z",
+        "timeET": "10:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Golden 1 Center, Sacramento, CA"
+      },
+      {
+        "id": "nwsl-401854029",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Portland Thorns FC",
+          "abbreviation": "POR",
+          "record": "12-8-8"
+        },
+        "awayTeam": {
+          "name": "North Carolina Courage",
+          "abbreviation": "NC",
+          "record": "13-3-12"
+        },
+        "startTime": "2026-10-24T02:00Z",
+        "timeET": "10:00 PM ET",
+        "channels": [
+          "Amazon Prime"
+        ],
+        "status": "upcoming",
+        "venue": "Providence Park, Portland, Oregon",
+        "isNational": true,
+        "tournament": "NWSL"
+      },
+      {
+        "id": "cfb-401858272",
+        "sport": "College Football",
+        "homeTeam": {
+          "name": "Stanford Cardinal",
+          "abbreviation": "STAN",
+          "record": "3-4"
+        },
+        "awayTeam": {
+          "name": "NC State Wolfpack",
+          "abbreviation": "NCSU",
+          "record": "3-3"
+        },
+        "startTime": "2026-10-24T02:30Z",
+        "timeET": "10:30 PM ET",
+        "channels": [
+          "ESPN"
+        ],
+        "status": "upcoming",
+        "venue": "Stanford Stadium, Stanford, CA",
+        "isNational": true
+      },
+      {
+        "id": "ligamx-401876927",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Atlante",
+          "abbreviation": "ATL",
+          "record": "2-5-5"
+        },
+        "awayTeam": {
+          "name": "Atlético de San Luis",
+          "abbreviation": "ASL",
+          "record": "3-4-5"
+        },
+        "startTime": "2026-10-24T03:00Z",
+        "timeET": "11:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Estadio Banorte, Mexico City",
+        "tournament": "Liga MX"
+      }
+    ],
+    "lastUpdated": "2026-10-19T03:30:08.419Z"
+  },
+  "social": {
+    "caption": "🏟️ What's On Tonight — Friday, October 23, 2026\n\n⛳ Golf  ·  🏀 International Basketball  ·  🏎️ F1  ·  ⚽ Soccer  ·  🏀 NBA  ·  🏈 College Football  ·  ⚾ MLB  ·  🏒 NHL\n\n39 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#FIBA #EuroLeague #InternationalBasketball #BasketballWorldCup\n#F1 #Formula1 #F1Racing #GrandPrix\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#NBA #NBATonight #NBABasketball #NBAonESPN #NBAonTNT\n#CollegeFootball #NCAAF #CFB #CFBPlayoff\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "hashtags": [
+      "#AnyAndAllSports",
+      "#WhatsOnTonight",
+      "#SportsTonight",
+      "#SportsSchedule",
+      "#SportsTV",
+      "#SportsTVSchedule",
+      "#WatchSports",
+      "#WhereToWatch",
+      "#GameTonight",
+      "#SportsOnTV",
+      "#LiveSports",
+      "#Golf",
+      "#PGA",
+      "#PGATour",
+      "#LPGA",
+      "#LIVGolf",
+      "#ChampionsTour",
+      "#DPWorldTour",
+      "#FIBA",
+      "#EuroLeague",
+      "#InternationalBasketball",
+      "#BasketballWorldCup",
+      "#F1",
+      "#Formula1"
+    ],
+    "slides": [
+      {
+        "title": "What's On Tonight",
+        "body": "39 events across Golf, International Basketball, F1, Soccer, NBA, College Football, MLB, NHL."
+      },
+      {
+        "title": "Game 1",
+        "body": "PGA Tour at Butterfield Bermuda Championship 12:00 AM ET on Golf Chnl"
+      },
+      {
+        "title": "Game 2",
+        "body": "LPGA at BMW Ladies Championship 12:00 AM ET on Golf Chnl"
+      },
+      {
+        "title": "Game 3",
+        "body": "DP World Tour at Genesis Championship 12:00 AM ET on Golf Chnl / NBC Sports"
+      },
+      {
+        "title": "Game 4",
+        "body": "Champions Tour at Stifel Charity Classic 12:00 AM ET on Golf Chnl"
+      },
+      {
+        "title": "Game 5",
+        "body": "Melbourne United at Perth Wildcats 6:30 AM ET on Check listings"
+      }
+    ],
+    "pngFiles": [
+      "slide-1.png",
+      "slide-2.png",
+      "slide-3.png",
+      "slide-4.png",
+      "slide-5.png",
+      "slide-6.png",
+      "slide-7.png"
+    ]
+  },
+  "lastUpdated": "2026-10-19T03:45:20.651Z"
+}

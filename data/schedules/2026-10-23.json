@@ -57,25 +57,6 @@
       "tournament": "DP World Tour"
     },
     {
-      "id": "mlb-401908042",
-      "sport": "MLB",
-      "homeTeam": {
-        "name": "TBD",
-        "abbreviation": "TBD"
-      },
-      "awayTeam": {
-        "name": "TBD",
-        "abbreviation": "TBD"
-      },
-      "startTime": "2026-10-23T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [
-        "Fox"
-      ],
-      "status": "upcoming",
-      "isNational": true
-    },
-    {
       "id": "champs-401832052",
       "sport": "Golf",
       "homeTeam": {
@@ -99,12 +80,12 @@
       "homeTeam": {
         "name": "Perth Wildcats",
         "abbreviation": "PER",
-        "record": "4-1"
+        "record": "4-2"
       },
       "awayTeam": {
         "name": "Melbourne United",
         "abbreviation": "MEL",
-        "record": "3-3"
+        "record": "3-4"
       },
       "startTime": "2026-10-23T10:30Z",
       "timeET": "6:30 AM ET",
@@ -134,12 +115,12 @@
       "homeTeam": {
         "name": "Go Ahead Eagles",
         "abbreviation": "GAE",
-        "record": "2-5-1"
+        "record": "2-5-2"
       },
       "awayTeam": {
         "name": "Telstar",
         "abbreviation": "TEL",
-        "record": "1-2-4"
+        "record": "1-3-5"
       },
       "startTime": "2026-10-23T18:00Z",
       "timeET": "2:00 PM ET",
@@ -154,18 +135,21 @@
       "homeTeam": {
         "name": "VfB Stuttgart",
         "abbreviation": "VFB",
-        "record": "2-0-3"
+        "record": "2-0-4"
       },
       "awayTeam": {
         "name": "Borussia Mönchengladbach",
         "abbreviation": "BMG",
-        "record": "0-0-4"
+        "record": "0-0-6"
       },
       "startTime": "2026-10-23T18:30Z",
       "timeET": "2:30 PM ET",
-      "channels": [],
+      "channels": [
+        "Fandango"
+      ],
       "status": "upcoming",
       "venue": "MHPArena, Stuttgart",
+      "isNational": true,
       "tournament": "Bundesliga"
     },
     {
@@ -174,12 +158,12 @@
       "homeTeam": {
         "name": "Torino",
         "abbreviation": "TOR",
-        "record": "1-1-3"
+        "record": "2-1-3"
       },
       "awayTeam": {
         "name": "Monza",
         "abbreviation": "MON",
-        "record": "1-1-3"
+        "record": "1-1-4"
       },
       "startTime": "2026-10-23T18:45Z",
       "timeET": "2:45 PM ET",
@@ -197,12 +181,12 @@
       "homeTeam": {
         "name": "Brest",
         "abbreviation": "BRE",
-        "record": "2-2-2"
+        "record": "2-3-2"
       },
       "awayTeam": {
         "name": "Nice",
         "abbreviation": "NICE",
-        "record": "1-2-2"
+        "record": "2-2-3"
       },
       "startTime": "2026-10-23T18:45Z",
       "timeET": "2:45 PM ET",
@@ -217,12 +201,12 @@
       "homeTeam": {
         "name": "Ipswich Town",
         "abbreviation": "IPS",
-        "record": "3-0-3"
+        "record": "3-0-4"
       },
       "awayTeam": {
         "name": "Nottingham Forest",
         "abbreviation": "NFO",
-        "record": "1-2-2"
+        "record": "1-2-4"
       },
       "startTime": "2026-10-23T19:00Z",
       "timeET": "3:00 PM ET",
@@ -237,16 +221,17 @@
       "homeTeam": {
         "name": "Alavés",
         "abbreviation": "ALA",
-        "record": "3-2-3"
+        "record": "3-2-4"
       },
       "awayTeam": {
         "name": "Málaga",
         "abbreviation": "MCF",
-        "record": "0-4-4"
+        "record": "0-4-5"
       },
       "startTime": "2026-10-23T19:00Z",
       "timeET": "3:00 PM ET",
       "channels": [
+        "ESPN Deportes",
         "ESPN+"
       ],
       "status": "upcoming",
@@ -260,12 +245,12 @@
       "homeTeam": {
         "name": "Bolton Wanderers",
         "abbreviation": "BOL",
-        "record": "3-1-5"
+        "record": "4-2-5"
       },
       "awayTeam": {
         "name": "Middlesbrough",
         "abbreviation": "MID",
-        "record": "5-3-1"
+        "record": "6-4-1"
       },
       "startTime": "2026-10-23T19:00Z",
       "timeET": "3:00 PM ET",
@@ -280,7 +265,7 @@
       "homeTeam": {
         "name": "Vitória de Guimaraes",
         "abbreviation": "VSC",
-        "record": "1-2-4"
+        "record": "1-2-5"
       },
       "awayTeam": {
         "name": "Maritimo",
@@ -293,6 +278,25 @@
       "status": "upcoming",
       "venue": "Estádio D. Afonso Henriques, Guimarães",
       "tournament": "Primeira Liga"
+    },
+    {
+      "id": "nba-401909848",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Milwaukee Bucks",
+        "abbreviation": "MIL",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Chicago Bulls",
+        "abbreviation": "CHI",
+        "record": "0-0"
+      },
+      "startTime": "2026-10-23T20:00Z",
+      "timeET": "4:00 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Fiserv Forum, Milwaukee, WI"
     },
     {
       "id": "nba-401909095",
@@ -400,12 +404,12 @@
       "homeTeam": {
         "name": "Virginia Cavaliers",
         "abbreviation": "UVA",
-        "record": "4-2"
+        "record": "4-3"
       },
       "awayTeam": {
         "name": "Duke Blue Devils",
         "abbreviation": "DUKE",
-        "record": "4-1"
+        "record": "4-2"
       },
       "startTime": "2026-10-23T23:00Z",
       "timeET": "7:00 PM ET",
@@ -427,7 +431,7 @@
       "awayTeam": {
         "name": "Massachusetts Minutemen",
         "abbreviation": "MASS",
-        "record": "4-2"
+        "record": "4-3"
       },
       "startTime": "2026-10-23T23:00Z",
       "timeET": "7:00 PM ET",
@@ -458,23 +462,25 @@
       "venue": "Kaseya Center, Miami, FL"
     },
     {
-      "id": "nba-401909848",
-      "sport": "NBA",
+      "id": "mlb-401908042",
+      "sport": "MLB",
       "homeTeam": {
-        "name": "Milwaukee Bucks",
+        "name": "Milwaukee Brewers",
         "abbreviation": "MIL",
-        "record": "0-0"
+        "record": "103-59"
       },
       "awayTeam": {
-        "name": "Chicago Bulls",
-        "abbreviation": "CHI",
-        "record": "0-0"
+        "name": "Rays/Guardians",
+        "abbreviation": "Rays/Guardians"
       },
       "startTime": "2026-10-24T00:00Z",
       "timeET": "8:00 PM ET",
-      "channels": [],
+      "channels": [
+        "Fox"
+      ],
       "status": "upcoming",
-      "venue": "Fiserv Forum, Milwaukee, WI"
+      "venue": "American Family Field, Milwaukee, Wisconsin",
+      "isNational": true
     },
     {
       "id": "nhl-401892564",
@@ -482,12 +488,12 @@
       "homeTeam": {
         "name": "Chicago Blackhawks",
         "abbreviation": "CHI",
-        "record": "1-5-0"
+        "record": "3-6-0"
       },
       "awayTeam": {
         "name": "Montreal Canadiens",
         "abbreviation": "MTL",
-        "record": "2-2-1"
+        "record": "4-3-1"
       },
       "startTime": "2026-10-24T00:00Z",
       "timeET": "8:00 PM ET",
@@ -505,12 +511,12 @@
       "homeTeam": {
         "name": "Chicago Stars FC",
         "abbreviation": "CHI",
-        "record": "5-2-20"
+        "record": "5-2-21"
       },
       "awayTeam": {
         "name": "Houston Dash",
         "abbreviation": "HOU",
-        "record": "8-6-13"
+        "record": "8-6-14"
       },
       "startTime": "2026-10-24T00:00Z",
       "timeET": "8:00 PM ET",
@@ -528,12 +534,12 @@
       "homeTeam": {
         "name": "Tulsa Golden Hurricane",
         "abbreviation": "TLSA",
-        "record": "3-3"
+        "record": "4-3"
       },
       "awayTeam": {
         "name": "Army Black Knights",
         "abbreviation": "ARMY",
-        "record": "3-2"
+        "record": "4-2"
       },
       "startTime": "2026-10-24T00:30Z",
       "timeET": "8:30 PM ET",
@@ -550,12 +556,12 @@
       "homeTeam": {
         "name": "Wyoming Cowboys",
         "abbreviation": "WYO",
-        "record": "3-3"
+        "record": "4-3"
       },
       "awayTeam": {
         "name": "Air Force Falcons",
         "abbreviation": "AFA",
-        "record": "4-1"
+        "record": "5-1"
       },
       "startTime": "2026-10-24T01:00Z",
       "timeET": "9:00 PM ET",
@@ -572,12 +578,12 @@
       "homeTeam": {
         "name": "Colorado Avalanche",
         "abbreviation": "COL",
-        "record": "3-2-0"
+        "record": "5-2-1"
       },
       "awayTeam": {
         "name": "Tampa Bay Lightning",
         "abbreviation": "TB",
-        "record": "4-1-0"
+        "record": "6-2-0"
       },
       "startTime": "2026-10-24T01:00Z",
       "timeET": "9:00 PM ET",
@@ -596,12 +602,12 @@
       "homeTeam": {
         "name": "Necaxa",
         "abbreviation": "NCX",
-        "record": "2-2-6"
+        "record": "2-3-7"
       },
       "awayTeam": {
         "name": "FC Juárez",
         "abbreviation": "JUA",
-        "record": "1-1-9"
+        "record": "1-1-10"
       },
       "startTime": "2026-10-24T01:00Z",
       "timeET": "9:00 PM ET",
@@ -657,12 +663,12 @@
       "homeTeam": {
         "name": "Utah Royals",
         "abbreviation": "UTA",
-        "record": "14-4-9"
+        "record": "14-4-10"
       },
       "awayTeam": {
         "name": "Seattle Reign FC",
         "abbreviation": "SEA",
-        "record": "12-4-11"
+        "record": "13-4-11"
       },
       "startTime": "2026-10-24T01:30Z",
       "timeET": "9:30 PM ET",
@@ -737,12 +743,12 @@
       "homeTeam": {
         "name": "Portland Thorns FC",
         "abbreviation": "POR",
-        "record": "12-7-8"
+        "record": "12-8-8"
       },
       "awayTeam": {
         "name": "North Carolina Courage",
         "abbreviation": "NC",
-        "record": "13-3-11"
+        "record": "13-3-12"
       },
       "startTime": "2026-10-24T02:00Z",
       "timeET": "10:00 PM ET",
@@ -760,7 +766,7 @@
       "homeTeam": {
         "name": "Stanford Cardinal",
         "abbreviation": "STAN",
-        "record": "2-4"
+        "record": "3-4"
       },
       "awayTeam": {
         "name": "NC State Wolfpack",
@@ -782,12 +788,12 @@
       "homeTeam": {
         "name": "Atlante",
         "abbreviation": "ATL",
-        "record": "2-5-4"
+        "record": "2-5-5"
       },
       "awayTeam": {
         "name": "Atlético de San Luis",
         "abbreviation": "ASL",
-        "record": "3-3-4"
+        "record": "3-4-5"
       },
       "startTime": "2026-10-24T03:00Z",
       "timeET": "11:00 PM ET",
@@ -797,5 +803,5 @@
       "tournament": "Liga MX"
     }
   ],
-  "lastUpdated": "2026-10-11T10:00:16.171Z"
+  "lastUpdated": "2026-10-19T03:30:08.419Z"
 }
