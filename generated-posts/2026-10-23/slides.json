@@ -2,28 +2,24 @@
   "date": "2026-10-23",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "39 events across Golf, International Basketball, F1, Soccer, NBA, College Football, MLB, NHL."
+      "title": "Friday Sports Schedule",
+      "body": "A packed day: golf, F1, soccer, NBA, college football, MLB, and NHL."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at Butterfield Bermuda Championship 12:00 AM ET on Golf Chnl"
+      "title": "Golf Starts Early",
+      "body": "Butterfield Bermuda, BMW Ladies, Genesis Championship, and Stifel Charity Classic all begin at 12:00 AM ET on Golf Channel."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at BMW Ladies Championship 12:00 AM ET on Golf Chnl"
+      "title": "Soccer Watch List",
+      "body": "Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Eredivisie, and more across USA, ESPN, Paramount+, beIN, and CBSSN."
     },
     {
-      "title": "Game 3",
-      "body": "DP World Tour at Genesis Championship 12:00 AM ET on Golf Chnl / NBC Sports"
+      "title": "NBA Night Slate",
+      "body": "Bulls-Bucks, Knicks-Celtics on Prime, plus Hawks-Hornets and Mavs-Pacers on League Pass."
     },
     {
-      "title": "Game 4",
-      "body": "Champions Tour at Stifel Charity Classic 12:00 AM ET on Golf Chnl"
-    },
-    {
-      "title": "Game 5",
-      "body": "Melbourne United at Perth Wildcats 6:30 AM ET on Check listings"
+      "title": "More to Stream",
+      "body": "F1 from the U.S. Grand Prix airs on Apple TV. Watch the full day and follow @any_and_all_sports."
     }
   ],
   "pngFiles": [
@@ -35,5 +31,5 @@
     "slide-6.png",
     "slide-7.png"
   ],
-  "generatedAt": "2026-10-19T03:45:20.651Z"
+  "generatedAt": "2026-10-23T10:00:13.737Z"
 }
