@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-25",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "72 events across Golf, F1, International Basketball, Soccer, NFL, NHL, NBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Butterfield Bermuda Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at BMW Ladies Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "DP World Tour at Genesis Championship 12:00 AM ET on Golf Chnl / NBC Sports"
+    },
+    {
+      "title": "Game 4",
+      "body": "Champions Tour at Stifel Charity Classic 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 5",
+      "body": "Formula 1 at MSC Cruises United States Grand Prix 1:30 PM ET on Apple TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png",
+    "slide-10.png",
+    "slide-11.png",
+    "slide-12.png",
+    "slide-13.png"
+  ],
+  "generatedAt": "2026-10-19T03:51:21.733Z"
+}
