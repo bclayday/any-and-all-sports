@@ -1,0 +1,484 @@
+{
+  "date": "2026-10-26",
+  "schedule": {
+    "date": "2026-10-26",
+    "games": [
+      {
+        "id": "pga-401850917",
+        "sport": "Golf",
+        "homeTeam": {
+          "name": "Butterfield Bermuda Championship"
+        },
+        "awayTeam": {
+          "name": "PGA Tour"
+        },
+        "startTime": "2026-10-22T04:00Z",
+        "timeET": "12:00 AM ET",
+        "channels": [
+          "Golf Chnl"
+        ],
+        "status": "live",
+        "isNational": true,
+        "tournament": "PGA Tour"
+      },
+      {
+        "id": "primeiraliga-401885414",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Santa Clara",
+          "abbreviation": "CDSC",
+          "record": "5-3-0"
+        },
+        "awayTeam": {
+          "name": "Benfica",
+          "abbreviation": "SLB",
+          "record": "6-1-1"
+        },
+        "startTime": "2026-10-26T18:45Z",
+        "timeET": "2:45 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Estádio de São Miguel, Ponta Delgada",
+        "tournament": "Primeira Liga"
+      },
+      {
+        "id": "ligue1-401876422",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Paris Saint-Germain",
+          "abbreviation": "PSG",
+          "record": "4-2-1"
+        },
+        "awayTeam": {
+          "name": "Lyon",
+          "abbreviation": "LYON",
+          "record": "4-2-1"
+        },
+        "startTime": "2026-10-26T19:30Z",
+        "timeET": "3:30 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Parc des Princes, Paris",
+        "tournament": "Ligue 1"
+      },
+      {
+        "id": "laliga-401882828",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Sevilla",
+          "abbreviation": "SEV",
+          "record": "4-2-3"
+        },
+        "awayTeam": {
+          "name": "Osasuna",
+          "abbreviation": "OSA",
+          "record": "3-2-4"
+        },
+        "startTime": "2026-10-26T20:00Z",
+        "timeET": "4:00 PM ET",
+        "channels": [
+          "ESPN Deportes",
+          "ESPN+"
+        ],
+        "status": "upcoming",
+        "venue": "Ramón Sánchez Pizjuán Stadium, Sevilla",
+        "isNational": true,
+        "tournament": "La Liga"
+      },
+      {
+        "id": "nba-401909868",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Charlotte Hornets",
+          "abbreviation": "CHA",
+          "record": "2-1"
+        },
+        "awayTeam": {
+          "name": "Washington Wizards",
+          "abbreviation": "WSH",
+          "record": "2-1"
+        },
+        "startTime": "2026-10-26T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "MNMT",
+          "NBA League Pass"
+        ],
+        "status": "upcoming",
+        "venue": "Spectrum Center, Charlotte, NC"
+      },
+      {
+        "id": "nba-401909869",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Cleveland Cavaliers",
+          "abbreviation": "CLE",
+          "record": "1-1"
+        },
+        "awayTeam": {
+          "name": "Minnesota Timberwolves",
+          "abbreviation": "MIN",
+          "record": "3-0"
+        },
+        "startTime": "2026-10-26T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "NBA League Pass",
+          "DAZN MIN"
+        ],
+        "status": "upcoming",
+        "venue": "Rocket Arena, Cleveland, OH"
+      },
+      {
+        "id": "nhl-401892582",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "New York Rangers",
+          "abbreviation": "NYR",
+          "record": "7-5-1"
+        },
+        "awayTeam": {
+          "name": "Los Angeles Kings",
+          "abbreviation": "LA",
+          "record": "2-5-2"
+        },
+        "startTime": "2026-10-26T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "NHL Net",
+          "MSG",
+          "ABTV"
+        ],
+        "status": "upcoming",
+        "venue": "Madison Square Garden, New York, NY",
+        "isNational": true
+      },
+      {
+        "id": "nba-401909870",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Boston Celtics",
+          "abbreviation": "BOS",
+          "record": "1-1"
+        },
+        "awayTeam": {
+          "name": "Chicago Bulls",
+          "abbreviation": "CHI",
+          "record": "1-2"
+        },
+        "startTime": "2026-10-26T23:30Z",
+        "timeET": "7:30 PM ET",
+        "channels": [
+          "NBA League Pass"
+        ],
+        "status": "upcoming",
+        "venue": "TD Garden, Boston, MA"
+      },
+      {
+        "id": "nba-401909871",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Miami Heat",
+          "abbreviation": "MIA",
+          "record": "0-3"
+        },
+        "awayTeam": {
+          "name": "Dallas Mavericks",
+          "abbreviation": "DAL",
+          "record": "1-2"
+        },
+        "startTime": "2026-10-26T23:30Z",
+        "timeET": "7:30 PM ET",
+        "channels": [
+          "NBA TV",
+          "KFAA-TV",
+          "MavsTV"
+        ],
+        "status": "upcoming",
+        "venue": "Kaseya Center, Miami, FL",
+        "isNational": true
+      },
+      {
+        "id": "nba-401909872",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Milwaukee Bucks",
+          "abbreviation": "MIL",
+          "record": "0-3"
+        },
+        "awayTeam": {
+          "name": "Indiana Pacers",
+          "abbreviation": "IND",
+          "record": "2-1"
+        },
+        "startTime": "2026-10-27T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "NBA League Pass",
+          "DAZN IND",
+          "MyMi",
+          "Bucks App"
+        ],
+        "status": "upcoming",
+        "venue": "Fiserv Forum, Milwaukee, WI"
+      },
+      {
+        "id": "nba-401909873",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Oklahoma City Thunder",
+          "abbreviation": "OKC",
+          "record": "3-0"
+        },
+        "awayTeam": {
+          "name": "Phoenix Suns",
+          "abbreviation": "PHX",
+          "record": "1-1"
+        },
+        "startTime": "2026-10-27T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "NBA League Pass",
+          "Suns Live",
+          "Arizona's Family 3TV",
+          "KSBI",
+          "Thunder App"
+        ],
+        "status": "upcoming",
+        "venue": "Paycom Center, Oklahoma City, OK"
+      },
+      {
+        "id": "wnba-401918309",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Golden State Valkyries",
+          "abbreviation": "GS",
+          "record": "32-12"
+        },
+        "awayTeam": {
+          "name": "Atlanta Dream",
+          "abbreviation": "ATL",
+          "record": "30-14"
+        },
+        "startTime": "2026-10-27T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "USA Net",
+          "CNBC"
+        ],
+        "status": "upcoming",
+        "venue": "Chase Center, San Francisco, CA",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401908044",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB",
+          "record": "98-64"
+        },
+        "awayTeam": {
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "record": "103-59"
+        },
+        "startTime": "2026-10-27T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "Fox",
+          "ERADM"
+        ],
+        "status": "upcoming",
+        "venue": "Tropicana Field, St. Petersburg, Florida",
+        "isNational": true
+      },
+      {
+        "id": "nfl-401873009",
+        "sport": "NFL",
+        "homeTeam": {
+          "name": "Philadelphia Eagles",
+          "abbreviation": "PHI",
+          "record": "2-4"
+        },
+        "awayTeam": {
+          "name": "Dallas Cowboys",
+          "abbreviation": "DAL",
+          "record": "2-4"
+        },
+        "startTime": "2026-10-27T00:15Z",
+        "timeET": "8:15 PM ET",
+        "channels": [
+          "ESPN",
+          "ABC",
+          "Disney+"
+        ],
+        "status": "upcoming",
+        "venue": "Lincoln Financial Field, Philadelphia, PA",
+        "isNational": true
+      },
+      {
+        "id": "nba-401909874",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Houston Rockets",
+          "abbreviation": "HOU",
+          "record": "3-0"
+        },
+        "awayTeam": {
+          "name": "Atlanta Hawks",
+          "abbreviation": "ATL",
+          "record": "2-1"
+        },
+        "startTime": "2026-10-27T00:30Z",
+        "timeET": "8:30 PM ET",
+        "channels": [
+          "NBA League Pass"
+        ],
+        "status": "upcoming",
+        "venue": "Toyota Center (Houston), Houston, TX"
+      },
+      {
+        "id": "nhl-401892583",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Calgary Flames",
+          "abbreviation": "CGY",
+          "record": "4-6-0"
+        },
+        "awayTeam": {
+          "name": "Toronto Maple Leafs",
+          "abbreviation": "TOR",
+          "record": "7-4-2"
+        },
+        "startTime": "2026-10-27T00:30Z",
+        "timeET": "8:30 PM ET",
+        "channels": [
+          "ESPN+"
+        ],
+        "status": "upcoming",
+        "venue": "Scotiabank Saddledome, Calgary, AB",
+        "isNational": true
+      },
+      {
+        "id": "nba-401909875",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Utah Jazz",
+          "abbreviation": "UTAH",
+          "record": "1-2"
+        },
+        "awayTeam": {
+          "name": "Memphis Grizzlies",
+          "abbreviation": "MEM",
+          "record": "3-0"
+        },
+        "startTime": "2026-10-27T01:00Z",
+        "timeET": "9:00 PM ET",
+        "channels": [
+          "NBA League Pass",
+          "DAZN MEM",
+          "KJZZ-TV",
+          "Jazz+"
+        ],
+        "status": "upcoming",
+        "venue": "Delta Center, Salt Lake City, UT"
+      },
+      {
+        "id": "nhl-401892584",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Edmonton Oilers",
+          "abbreviation": "EDM",
+          "record": "8-2-1"
+        },
+        "awayTeam": {
+          "name": "Detroit Red Wings",
+          "abbreviation": "DET",
+          "record": "4-4-3"
+        },
+        "startTime": "2026-10-27T01:30Z",
+        "timeET": "9:30 PM ET",
+        "channels": [
+          "ESPN+",
+          "DSN"
+        ],
+        "status": "upcoming",
+        "venue": "Rogers Place, Edmonton, AB",
+        "isNational": true
+      },
+      {
+        "id": "nba-401909876",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Denver Nuggets",
+          "abbreviation": "DEN",
+          "record": "1-1"
+        },
+        "awayTeam": {
+          "name": "Golden State Warriors",
+          "abbreviation": "GS",
+          "record": "0-3"
+        },
+        "startTime": "2026-10-27T02:00Z",
+        "timeET": "10:00 PM ET",
+        "channels": [
+          "NBCSN"
+        ],
+        "status": "upcoming",
+        "venue": "Ball Arena, Denver, CO",
+        "isNational": true
+      }
+    ],
+    "lastUpdated": "2026-10-26T10:00:06.844Z"
+  },
+  "social": {
+    "caption": "Busy Monday slate across the NBA, NHL, WNBA, MLB, MLS, La Liga, and golf. Tune in on ESPN, ABC, NBA League Pass, NHL Net, Fox, USA, ESPN+, and more. Follow @any_and_all_sports for your daily watch guide.",
+    "hashtags": [
+      "#AnyAndAllSports",
+      "#SportsSchedule",
+      "#NBA",
+      "#NHL",
+      "#WNBA",
+      "#MLB",
+      "#Golf",
+      "#Soccer",
+      "#NFL",
+      "#ESPN",
+      "#NBALeaguePass",
+      "#ESPNPlus",
+      "#FoxSports",
+      "#ABC",
+      "#WatchLive"
+    ],
+    "slides": [
+      {
+        "title": "Monday Sports Schedule",
+        "body": "19 games across the board. Big night for NBA, NHL, WNBA, MLB, NFL, soccer, and golf."
+      },
+      {
+        "title": "Top TV Windows",
+        "body": "Watch on ESPN, ABC, Fox, USA, NHL Net, NBA TV, ESPN+, and NBA League Pass."
+      },
+      {
+        "title": "NBA Tonight",
+        "body": "8 games, including Bulls-Celtics, Mavs-Heat, Suns-Thunder, and Pacers-Bucks."
+      },
+      {
+        "title": "Ice, Diamond, Pitch",
+        "body": "Kings-Rangers, Leafs-Flames, Red Wings-Oilers, Brewers-Rays, plus La Liga and Ligue 1."
+      },
+      {
+        "title": "Prime Time Close",
+        "body": "Cowboys-Eagles at 8:15 PM ET. Follow @any_and_all_sports for the full daily schedule."
+      }
+    ],
+    "pngFiles": [
+      "slide-1.png",
+      "slide-2.png",
+      "slide-3.png",
+      "slide-4.png"
+    ]
+  },
+  "lastUpdated": "2026-10-26T10:03:12.674Z"
+}

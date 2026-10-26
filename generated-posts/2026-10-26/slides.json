@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-26",
+  "slides": [
+    {
+      "title": "Monday Sports Schedule",
+      "body": "19 games across the board. Big night for NBA, NHL, WNBA, MLB, NFL, soccer, and golf."
+    },
+    {
+      "title": "Top TV Windows",
+      "body": "Watch on ESPN, ABC, Fox, USA, NHL Net, NBA TV, ESPN+, and NBA League Pass."
+    },
+    {
+      "title": "NBA Tonight",
+      "body": "8 games, including Bulls-Celtics, Mavs-Heat, Suns-Thunder, and Pacers-Bucks."
+    },
+    {
+      "title": "Ice, Diamond, Pitch",
+      "body": "Kings-Rangers, Leafs-Flames, Red Wings-Oilers, Brewers-Rays, plus La Liga and Ligue 1."
+    },
+    {
+      "title": "Prime Time Close",
+      "body": "Cowboys-Eagles at 8:15 PM ET. Follow @any_and_all_sports for the full daily schedule."
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-10-26T10:03:12.674Z"
+}
