@@ -1,0 +1,545 @@
+{
+  "date": "2026-10-27",
+  "schedule": {
+    "date": "2026-10-27",
+    "games": [
+      {
+        "id": "seriea-401874980",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Sassuolo",
+          "abbreviation": "SAS",
+          "record": "2-2-4"
+        },
+        "awayTeam": {
+          "name": "Lazio",
+          "abbreviation": "LAZ",
+          "record": "7-1-0"
+        },
+        "startTime": "2026-10-27T17:30Z",
+        "timeET": "1:30 PM ET",
+        "channels": [
+          "Paramount+"
+        ],
+        "status": "upcoming",
+        "venue": "Mapei Stadium, Reggio Emilia",
+        "isNational": true,
+        "tournament": "Serie A"
+      },
+      {
+        "id": "seriea-401874780",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "AS Roma",
+          "abbreviation": "ROMA",
+          "record": "5-3-0"
+        },
+        "awayTeam": {
+          "name": "Cagliari",
+          "abbreviation": "CAG",
+          "record": "4-1-3"
+        },
+        "startTime": "2026-10-27T19:45Z",
+        "timeET": "3:45 PM ET",
+        "channels": [
+          "Paramount+"
+        ],
+        "status": "upcoming",
+        "venue": "Olimpico, Roma",
+        "isNational": true,
+        "tournament": "Serie A"
+      },
+      {
+        "id": "seriea-401874786",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Torino",
+          "abbreviation": "TOR",
+          "record": "4-1-3"
+        },
+        "awayTeam": {
+          "name": "Como",
+          "abbreviation": "COMO",
+          "record": "5-2-1"
+        },
+        "startTime": "2026-10-27T19:45Z",
+        "timeET": "3:45 PM ET",
+        "channels": [
+          "Paramount+"
+        ],
+        "status": "upcoming",
+        "venue": "Stadio Olimpico Grande Torino, Torino",
+        "isNational": true,
+        "tournament": "Serie A"
+      },
+      {
+        "id": "cfb-401871071",
+        "sport": "College Football",
+        "homeTeam": {
+          "name": "Western Kentucky Hilltoppers",
+          "abbreviation": "WKU",
+          "record": "3-4"
+        },
+        "awayTeam": {
+          "name": "Delaware Blue Hens",
+          "abbreviation": "DEL",
+          "record": "3-4"
+        },
+        "startTime": "2026-10-27T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "CBSSN"
+        ],
+        "status": "upcoming",
+        "venue": "Houchens Industries-L.T. Smith Stadium, Bowling Green, KY",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892585",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Philadelphia Flyers",
+          "abbreviation": "PHI",
+          "record": "3-7-3"
+        },
+        "awayTeam": {
+          "name": "Columbus Blue Jackets",
+          "abbreviation": "CBJ",
+          "record": "4-5-0"
+        },
+        "startTime": "2026-10-27T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "NBC Sports",
+          "CBJNHL"
+        ],
+        "status": "upcoming",
+        "venue": "Xfinity Mobile Arena, Philadelphia, PA",
+        "isNational": true
+      },
+      {
+        "id": "nba-401909877",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Boston Celtics",
+          "abbreviation": "BOS",
+          "record": "2-1"
+        },
+        "awayTeam": {
+          "name": "Brooklyn Nets",
+          "abbreviation": "BKN",
+          "record": "0-3"
+        },
+        "startTime": "2026-10-27T23:30Z",
+        "timeET": "7:30 PM ET",
+        "channels": [
+          "NBA League Pass",
+          "DAZN (YES)"
+        ],
+        "status": "upcoming",
+        "venue": "TD Garden, Boston, MA"
+      },
+      {
+        "id": "nba-401909878",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "New York Knicks",
+          "abbreviation": "NY",
+          "record": "0-3"
+        },
+        "awayTeam": {
+          "name": "Detroit Pistons",
+          "abbreviation": "DET",
+          "record": "3-0"
+        },
+        "startTime": "2026-10-28T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "NBC"
+        ],
+        "status": "upcoming",
+        "venue": "Madison Square Garden, New York, NY",
+        "isNational": true
+      },
+      {
+        "id": "nba-401909879",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "San Antonio Spurs",
+          "abbreviation": "SA",
+          "record": "1-2"
+        },
+        "awayTeam": {
+          "name": "Sacramento Kings",
+          "abbreviation": "SAC",
+          "record": "0-3"
+        },
+        "startTime": "2026-10-28T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "NBA League Pass"
+        ],
+        "status": "upcoming",
+        "venue": "Frost Bank Center, San Antonio, TX"
+      },
+      {
+        "id": "cfb-401871072",
+        "sport": "College Football",
+        "homeTeam": {
+          "name": "Missouri State Bears",
+          "abbreviation": "MOST",
+          "record": "2-5"
+        },
+        "awayTeam": {
+          "name": "Sam Houston Bearkats",
+          "abbreviation": "SHSU",
+          "record": "1-6"
+        },
+        "startTime": "2026-10-28T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "ESPN2"
+        ],
+        "status": "upcoming",
+        "venue": "Robert W. Plaster Stadium, Springfield, MO",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401908045",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB",
+          "record": "98-64"
+        },
+        "awayTeam": {
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "record": "103-59"
+        },
+        "startTime": "2026-10-28T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "Fox",
+          "ERADM"
+        ],
+        "status": "upcoming",
+        "venue": "Tropicana Field, St. Petersburg, Florida",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892586",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Carolina Hurricanes",
+          "abbreviation": "CAR",
+          "record": "9-2-2"
+        },
+        "awayTeam": {
+          "name": "Boston Bruins",
+          "abbreviation": "BOS",
+          "record": "9-2-1"
+        },
+        "startTime": "2026-10-28T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "ESPN"
+        ],
+        "status": "upcoming",
+        "venue": "Lenovo Center, Raleigh, NC",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892587",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Chicago Blackhawks",
+          "abbreviation": "CHI",
+          "record": "3-8-0"
+        },
+        "awayTeam": {
+          "name": "Los Angeles Kings",
+          "abbreviation": "LA",
+          "record": "3-5-2"
+        },
+        "startTime": "2026-10-28T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "CHSN",
+          "ABTV"
+        ],
+        "status": "upcoming",
+        "venue": "United Center, Chicago, IL",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892588",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "St. Louis Blues",
+          "abbreviation": "STL",
+          "record": "5-5-1"
+        },
+        "awayTeam": {
+          "name": "Montreal Canadiens",
+          "abbreviation": "MTL",
+          "record": "6-3-2"
+        },
+        "startTime": "2026-10-28T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "Blues App",
+          "BN+"
+        ],
+        "status": "upcoming",
+        "venue": "Enterprise Center, St. Louis, MO",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892589",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Nashville Predators",
+          "abbreviation": "NSH",
+          "record": "4-3-4"
+        },
+        "awayTeam": {
+          "name": "New York Islanders",
+          "abbreviation": "NYI",
+          "record": "5-4-2"
+        },
+        "startTime": "2026-10-28T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "MSG2",
+          "Scripps Sports"
+        ],
+        "status": "upcoming",
+        "venue": "Bridgestone Arena, Nashville, TN",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892590",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Dallas Stars",
+          "abbreviation": "DAL",
+          "record": "7-3-1"
+        },
+        "awayTeam": {
+          "name": "New Jersey Devils",
+          "abbreviation": "NJ",
+          "record": "7-4-0"
+        },
+        "startTime": "2026-10-28T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "MSGSN",
+          "Prime Video (Local)"
+        ],
+        "status": "upcoming",
+        "venue": "American Airlines Center, Dallas, TX",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892591",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Winnipeg Jets",
+          "abbreviation": "WPG",
+          "record": "4-4-3"
+        },
+        "awayTeam": {
+          "name": "Florida Panthers",
+          "abbreviation": "FLA",
+          "record": "6-4-2"
+        },
+        "startTime": "2026-10-28T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "Scripps Sports"
+        ],
+        "status": "upcoming",
+        "venue": "Canada Life Centre, Winnipeg, MB",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892592",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Utah Mammoth",
+          "abbreviation": "UTA",
+          "record": "8-4-0"
+        },
+        "awayTeam": {
+          "name": "Minnesota Wild",
+          "abbreviation": "MIN",
+          "record": "8-3-2"
+        },
+        "startTime": "2026-10-28T01:00Z",
+        "timeET": "9:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "MINNHL",
+          "Utah 16"
+        ],
+        "status": "upcoming",
+        "venue": "Delta Center, Salt Lake City, UT",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892593",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Vegas Golden Knights",
+          "abbreviation": "VGK",
+          "record": "8-4-1"
+        },
+        "awayTeam": {
+          "name": "Ottawa Senators",
+          "abbreviation": "OTT",
+          "record": "8-4-0"
+        },
+        "startTime": "2026-10-28T02:00Z",
+        "timeET": "10:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "Scripps Sports"
+        ],
+        "status": "upcoming",
+        "venue": "T-Mobile Arena, Las Vegas, NV",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892594",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Anaheim Ducks",
+          "abbreviation": "ANA",
+          "record": "5-6-0"
+        },
+        "awayTeam": {
+          "name": "Vancouver Canucks",
+          "abbreviation": "VAN",
+          "record": "2-10-1"
+        },
+        "startTime": "2026-10-28T02:00Z",
+        "timeET": "10:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "KCOP",
+          "Prime Video (Local)"
+        ],
+        "status": "upcoming",
+        "venue": "Honda Center, Anaheim, CA",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892595",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "San Jose Sharks",
+          "abbreviation": "SJ",
+          "record": "6-5-1"
+        },
+        "awayTeam": {
+          "name": "Buffalo Sabres",
+          "abbreviation": "BUF",
+          "record": "4-4-3"
+        },
+        "startTime": "2026-10-28T02:30Z",
+        "timeET": "10:30 PM ET",
+        "channels": [
+          "ESPN"
+        ],
+        "status": "upcoming",
+        "venue": "SAP Center at San Jose, San Jose, CA",
+        "isNational": true
+      },
+      {
+        "id": "nba-401909880",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Los Angeles Lakers",
+          "abbreviation": "LAL",
+          "record": "3-0"
+        },
+        "awayTeam": {
+          "name": "Portland Trail Blazers",
+          "abbreviation": "POR",
+          "record": "2-0"
+        },
+        "startTime": "2026-10-28T03:00Z",
+        "timeET": "11:00 PM ET",
+        "channels": [
+          "Peacock",
+          "NBC",
+          "Spectrum Sports Net",
+          "Spectrum Sports Net +"
+        ],
+        "status": "upcoming",
+        "venue": "crypto.com Arena, Los Angeles, CA",
+        "isNational": true
+      }
+    ],
+    "lastUpdated": "2026-10-27T10:00:10.150Z"
+  },
+  "social": {
+    "caption": "Tuesday brings Serie A, a full NHL slate, NBA action, college football, and Brewers-Rays. Start with Lazio-Sassuolo at 1:30 PM ET on Paramount+, then keep it rolling all night. Full watch info below. Follow @any_and_all_sports for daily schedules.",
+    "hashtags": [
+      "#AnyAndAllSports",
+      "#SportsSchedule",
+      "#NHL",
+      "#NBA",
+      "#MLB",
+      "#SerieA",
+      "#CollegeFootball",
+      "#ParamountPlus",
+      "#ESPN",
+      "#ESPNPlus",
+      "#NBC",
+      "#Fox",
+      "#CBSSN",
+      "#NBALeaguePass"
+    ],
+    "slides": [
+      {
+        "title": "Tuesday Sports Schedule",
+        "body": "A packed day across soccer, college football, NHL, NBA, and MLB. Times below are ET."
+      },
+      {
+        "title": "Early Soccer",
+        "body": "Lazio at Sassuolo starts at 1:30 PM ET on Paramount+. Two more Serie A matches at 3:45 PM ET."
+      },
+      {
+        "title": "Night Kickoff",
+        "body": "College football begins at 7:00 PM ET with Delaware at Western Kentucky on CBSSN."
+      },
+      {
+        "title": "Prime Time Ice and Hoops",
+        "body": "NHL and NBA take over at 7:00 PM ET. Bruins-Hurricanes on ESPN, Nets-Celtics on NBA League Pass/DAZN."
+      },
+      {
+        "title": "Late Night Watch",
+        "body": "Kings-Spurs, Brewers-Rays, and a stack of NHL games follow at 8:00 PM ET and later."
+      },
+      {
+        "title": "Follow for Daily Schedules",
+        "body": "Watch on the listed networks and follow @any_and_all_sports for tomorrow's slate."
+      }
+    ],
+    "pngFiles": [
+      "slide-1.png",
+      "slide-2.png",
+      "slide-3.png",
+      "slide-4.png"
+    ]
+  },
+  "lastUpdated": "2026-10-27T10:03:16.727Z"
+}

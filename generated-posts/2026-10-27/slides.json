@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-27",
+  "slides": [
+    {
+      "title": "Tuesday Sports Schedule",
+      "body": "A packed day across soccer, college football, NHL, NBA, and MLB. Times below are ET."
+    },
+    {
+      "title": "Early Soccer",
+      "body": "Lazio at Sassuolo starts at 1:30 PM ET on Paramount+. Two more Serie A matches at 3:45 PM ET."
+    },
+    {
+      "title": "Night Kickoff",
+      "body": "College football begins at 7:00 PM ET with Delaware at Western Kentucky on CBSSN."
+    },
+    {
+      "title": "Prime Time Ice and Hoops",
+      "body": "NHL and NBA take over at 7:00 PM ET. Bruins-Hurricanes on ESPN, Nets-Celtics on NBA League Pass/DAZN."
+    },
+    {
+      "title": "Late Night Watch",
+      "body": "Kings-Spurs, Brewers-Rays, and a stack of NHL games follow at 8:00 PM ET and later."
+    },
+    {
+      "title": "Follow for Daily Schedules",
+      "body": "Watch on the listed networks and follow @any_and_all_sports for tomorrow's slate."
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-10-27T10:03:16.727Z"
+}
