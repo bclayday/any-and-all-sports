@@ -5,6 +5,7 @@ import { useSession } from 'next-auth/react';
 import Link from 'next/link';
 import type { PartyWithCount } from '@/lib/parties';
 import PartyCard from '@/components/parties/PartyCard';
+import { isGoogleAuthConfigured } from '@/lib/auth-config';
 
 interface PartiesResponse {
   parties: PartyWithCount[];
@@ -127,8 +128,8 @@ export default function PartiesClient({ initialDate }: { initialDate: string }) 
       ) : (
         <div className="text-center py-16">
           <p className="text-5xl mb-4">🎉</p>
-          <h2 className="text-xl font-bold text-white mb-2">No parties yet for {formatDate(date)}</h2>
-          <p className="text-zinc-500 mb-6">Be the first to host a watch party.</p>
+          <h2 className="text-xl font-bold text-white mb-2">No watch parties yet for {formatDate(date)}</h2>
+          <p className="text-zinc-500 mb-6">Host the first one!</p>
           {session ? (
             <Link
               href="/parties/new"
@@ -136,8 +137,10 @@ export default function PartiesClient({ initialDate }: { initialDate: string }) 
             >
               Host the First One
             </Link>
-          ) : (
+          ) : isGoogleAuthConfigured() ? (
             <p className="text-zinc-600 text-sm">Sign in to create a party</p>
+          ) : (
+            <p className="text-zinc-600 text-sm">Check back soon for watch parties!</p>
           )}
         </div>
       )}

@@ -1,7 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { auth } from '@/auth';
-import { getPartyStore, getDemoParties, getTodayET } from '@/lib/parties';
-import type { PartyWithCount } from '@/lib/parties';
+import { getPartyStore, getTodayET } from '@/lib/parties';
 
 function stripHtml(str: string): string {
   return str.replace(/<[^>]*>/g, '').trim();
@@ -14,19 +13,11 @@ export async function GET(request: NextRequest) {
   const store = getPartyStore();
   const parties = await store.getPartiesByDate(date);
 
-  const demoParties = getDemoParties().filter(p => p.gameDate === date);
-  const demoWithCounts: PartyWithCount[] = demoParties.map((p, i) => ({
-    ...p,
-    id: `demo-${i}`,
-    createdAt: new Date().toISOString(),
-    attendeeCount: Math.floor(Math.random() * 20) + 5,
-  }));
+  const sortedParties = parties
+    .filter(p => !p.demo)
+    .sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime());
 
-  const allParties = [...demoWithCounts, ...parties].sort((a, b) =>
-    new Date(a.startTime).getTime() - new Date(b.startTime).getTime()
-  );
-
-  return NextResponse.json({ parties: allParties, date });
+  return NextResponse.json({ parties: sortedParties, date });
 }
 
 export async function POST(request: NextRequest) {

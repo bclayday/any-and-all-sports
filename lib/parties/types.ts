@@ -20,6 +20,10 @@ export interface Party {
   maxAttendees?: number;
   createdAt: string; // ISO 8601
   demo?: boolean;
+  source?: 'eventbrite' | 'meetup' | 'user';
+  verified?: boolean;
+  externalId?: string;
+  externalUrl?: string;
 }
 
 export interface PartyWithCount extends Party {

@@ -90,6 +90,7 @@ export class LocalJsonStore implements PartyStore {
       ...partyData,
       id: generateId(),
       createdAt: new Date().toISOString(),
+      source: partyData.source || 'user',
     };
     parties.push(party);
     writeParties(parties);

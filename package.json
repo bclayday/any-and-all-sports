@@ -13,7 +13,8 @@
     "generate-weekly": "node scripts/generate-weekly-content.mjs",
     "generate-initial": "node scripts/generate-weekly-content.mjs --start today --days 3 --reason initial",
     "verify-generated": "node scripts/verify-generated-content.mjs",
-    "daily-publish": "node scripts/daily-publish.mjs"
+    "daily-publish": "node scripts/daily-publish.mjs",
+    "fetch:parties": "node scripts/fetch-parties.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.117.3",

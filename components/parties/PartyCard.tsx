@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { useSession, signIn } from 'next-auth/react';
 import type { PartyWithCount } from '@/lib/parties';
 import { SPORT_CONFIG } from '@/lib/sports-config';
+import { isGoogleAuthConfigured } from '@/lib/auth-config';
 
 interface PartyCardProps {
   party: PartyWithCount;
@@ -19,7 +20,9 @@ export default function PartyCard({ party, onRsvpChange }: PartyCardProps) {
 
   const handleRsvp = async () => {
     if (!session) {
-      signIn('google');
+      if (isGoogleAuthConfigured()) {
+        signIn('google');
+      }
       return;
     }
 
@@ -59,6 +62,14 @@ export default function PartyCard({ party, onRsvpChange }: PartyCardProps) {
         >
           {party.league}
         </span>
+        {party.verified && (
+          <span className="inline-flex items-center gap-0.5 px-1.5 py-0.5 rounded text-[10px] font-semibold uppercase tracking-wider bg-blue-600/20 text-blue-400 border border-blue-600/30">
+            <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
+              <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+            </svg>
+            Verified
+          </span>
+        )}
         <span className="text-[10px] text-zinc-500 font-medium">
           {party.gameTimeET}
         </span>
@@ -114,13 +125,17 @@ export default function PartyCard({ party, onRsvpChange }: PartyCardProps) {
           >
             {loading ? '...' : rsvped ? "You're going" : 'RSVP'}
           </button>
-        ) : (
+        ) : isGoogleAuthConfigured() ? (
           <button
             onClick={() => signIn('google')}
             className="px-3 py-1.5 rounded-lg text-xs font-semibold bg-zinc-800 text-zinc-400 hover:bg-zinc-700 transition-all"
           >
             Sign in to RSVP
           </button>
+        ) : (
+          <span className="px-3 py-1.5 text-xs text-zinc-500">
+            Sign-in coming soon
+          </span>
         )}
       </div>
     </div>

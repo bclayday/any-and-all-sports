@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { useSession, signIn, signOut } from 'next-auth/react';
+import { isGoogleAuthConfigured } from '@/lib/auth-config';
 
 export default function Header() {
   const { data: session, status } = useSession();
@@ -80,7 +81,7 @@ export default function Header() {
                     Sign out
                   </button>
                 </div>
-              ) : (
+              ) : isGoogleAuthConfigured() ? (
                 <button
                   onClick={() => signIn('google')}
                   className="flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm font-semibold text-white bg-emerald-600 hover:bg-emerald-500 transition-all"
@@ -93,6 +94,10 @@ export default function Header() {
                   </svg>
                   Sign in
                 </button>
+              ) : (
+                <span className="px-3 py-1.5 text-sm text-zinc-500">
+                  Sign-in coming soon
+                </span>
               )}
             </div>
           </nav>
