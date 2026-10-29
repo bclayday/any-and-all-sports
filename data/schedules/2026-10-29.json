@@ -33,7 +33,7 @@
       "channels": [
         "Golf Chnl"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "LPGA"
     },
@@ -43,17 +43,47 @@
       "homeTeam": {
         "name": "Brisbane Bullets",
         "abbreviation": "BRI",
-        "record": "2-3"
+        "record": "4-4"
       },
       "awayTeam": {
         "name": "Cairns Taipans",
         "abbreviation": "CNS",
-        "record": "4-3"
+        "record": "5-4"
       },
-      "startTime": "2026-10-29T08:30Z",
-      "timeET": "4:30 AM ET",
+      "startTime": "2026-10-29T09:00Z",
+      "timeET": "5:00 AM ET",
       "channels": [],
-      "status": "upcoming"
+      "status": "live",
+      "currentPeriod": "2",
+      "score": {
+        "home": 42,
+        "away": 57
+      }
+    },
+    {
+      "id": "wnba-401918310",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Atlanta Dream",
+        "abbreviation": "ATL",
+        "record": "30-14"
+      },
+      "awayTeam": {
+        "name": "Golden State Valkyries",
+        "abbreviation": "GS",
+        "record": "32-12"
+      },
+      "startTime": "2026-10-29T16:30Z",
+      "timeET": "12:30 PM ET",
+      "channels": [
+        "USA Net",
+        "Peacock",
+        "E!",
+        "SYFY"
+      ],
+      "status": "upcoming",
+      "venue": "State Farm Arena, Atlanta, GA",
+      "isNational": true
     },
     {
       "id": "seriea-401874976",
@@ -61,12 +91,12 @@
       "homeTeam": {
         "name": "Frosinone",
         "abbreviation": "FRO",
-        "record": "3-1-2"
+        "record": "4-2-2"
       },
       "awayTeam": {
         "name": "Lecce",
         "abbreviation": "LEC",
-        "record": "2-0-3"
+        "record": "3-0-5"
       },
       "startTime": "2026-10-29T17:30Z",
       "timeET": "1:30 PM ET",
@@ -84,12 +114,12 @@
       "homeTeam": {
         "name": "Fiorentina",
         "abbreviation": "FIO",
-        "record": "1-1-4"
+        "record": "1-1-6"
       },
       "awayTeam": {
         "name": "Atalanta",
         "abbreviation": "ATA",
-        "record": "2-0-3"
+        "record": "3-1-4"
       },
       "startTime": "2026-10-29T19:45Z",
       "timeET": "3:45 PM ET",
@@ -102,39 +132,17 @@
       "tournament": "Serie A"
     },
     {
-      "id": "nba-401909893",
-      "sport": "NBA",
-      "homeTeam": {
-        "name": "Atlanta Hawks",
-        "abbreviation": "ATL",
-        "record": "0-0"
-      },
-      "awayTeam": {
-        "name": "Cleveland Cavaliers",
-        "abbreviation": "CLE",
-        "record": "0-0"
-      },
-      "startTime": "2026-10-29T23:00Z",
-      "timeET": "7:00 PM ET",
-      "channels": [
-        "NBA TV"
-      ],
-      "status": "upcoming",
-      "venue": "State Farm Arena, Atlanta, GA",
-      "isNational": true
-    },
-    {
       "id": "nhl-401892601",
       "sport": "NHL",
       "homeTeam": {
         "name": "Tampa Bay Lightning",
         "abbreviation": "TB",
-        "record": "4-1-0"
+        "record": "7-3-1"
       },
       "awayTeam": {
         "name": "Winnipeg Jets",
         "abbreviation": "WPG",
-        "record": "3-1-1"
+        "record": "4-5-3"
       },
       "startTime": "2026-10-29T23:00Z",
       "timeET": "7:00 PM ET",
@@ -152,12 +160,12 @@
       "homeTeam": {
         "name": "Pittsburgh Penguins",
         "abbreviation": "PIT",
-        "record": "3-2-1"
+        "record": "5-6-1"
       },
       "awayTeam": {
         "name": "Utah Mammoth",
         "abbreviation": "UTA",
-        "record": "4-2-0"
+        "record": "8-5-0"
       },
       "startTime": "2026-10-29T23:00Z",
       "timeET": "7:00 PM ET",
@@ -175,12 +183,12 @@
       "homeTeam": {
         "name": "Carolina Hurricanes",
         "abbreviation": "CAR",
-        "record": "4-1-1"
+        "record": "10-2-2"
       },
       "awayTeam": {
         "name": "Columbus Blue Jackets",
         "abbreviation": "CBJ",
-        "record": "2-2-0"
+        "record": "5-5-0"
       },
       "startTime": "2026-10-29T23:00Z",
       "timeET": "7:00 PM ET",
@@ -199,18 +207,21 @@
       "homeTeam": {
         "name": "North Texas Mean Green",
         "abbreviation": "UNT",
-        "record": "4-2"
+        "record": "5-2"
       },
       "awayTeam": {
         "name": "Florida Atlantic Owls",
         "abbreviation": "FAU",
-        "record": "4-1"
+        "record": "5-2"
       },
       "startTime": "2026-10-29T23:30Z",
       "timeET": "7:30 PM ET",
-      "channels": [],
+      "channels": [
+        "ESPN"
+      ],
       "status": "upcoming",
-      "venue": "DATCU Stadium, Denton, TX"
+      "venue": "DATCU Stadium, Denton, TX",
+      "isNational": true
     },
     {
       "id": "cfb-401869963",
@@ -218,18 +229,21 @@
       "homeTeam": {
         "name": "James Madison Dukes",
         "abbreviation": "JMU",
-        "record": "6-0"
+        "record": "7-1"
       },
       "awayTeam": {
         "name": "Troy Trojans",
         "abbreviation": "TROY",
-        "record": "3-2"
+        "record": "3-4"
       },
       "startTime": "2026-10-29T23:30Z",
       "timeET": "7:30 PM ET",
-      "channels": [],
+      "channels": [
+        "ESPN2"
+      ],
       "status": "upcoming",
-      "venue": "Bridgeforth Stadium, Harrisonburg, VA"
+      "venue": "Bridgeforth Stadium, Harrisonburg, VA",
+      "isNational": true
     },
     {
       "id": "nhl-401892600",
@@ -237,12 +251,12 @@
       "homeTeam": {
         "name": "Detroit Red Wings",
         "abbreviation": "DET",
-        "record": "1-3-1"
+        "record": "5-4-3"
       },
       "awayTeam": {
         "name": "Chicago Blackhawks",
         "abbreviation": "CHI",
-        "record": "1-5-0"
+        "record": "4-8-0"
       },
       "startTime": "2026-10-29T23:30Z",
       "timeET": "7:30 PM ET",
@@ -256,46 +270,49 @@
       "isNational": true
     },
     {
+      "id": "nba-401909893",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Atlanta Hawks",
+        "abbreviation": "ATL",
+        "record": "2-3"
+      },
+      "awayTeam": {
+        "name": "Cleveland Cavaliers",
+        "abbreviation": "CLE",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-30T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "NBA TV"
+      ],
+      "status": "upcoming",
+      "venue": "State Farm Arena, Atlanta, GA",
+      "isNational": true
+    },
+    {
       "id": "nba-401909894",
       "sport": "NBA",
       "homeTeam": {
         "name": "New Orleans Pelicans",
         "abbreviation": "NO",
-        "record": "0-0"
+        "record": "0-4"
       },
       "awayTeam": {
         "name": "Sacramento Kings",
         "abbreviation": "SAC",
-        "record": "0-0"
-      },
-      "startTime": "2026-10-30T00:00Z",
-      "timeET": "8:00 PM ET",
-      "channels": [],
-      "status": "upcoming",
-      "venue": "Smoothie King Center, New Orleans, LA"
-    },
-    {
-      "id": "wnba-401918310",
-      "sport": "WNBA",
-      "homeTeam": {
-        "name": "Atlanta Dream",
-        "abbreviation": "ATL",
-        "record": "30-14"
-      },
-      "awayTeam": {
-        "name": "Golden State Valkyries",
-        "abbreviation": "GS",
-        "record": "32-12"
+        "record": "0-4"
       },
       "startTime": "2026-10-30T00:00Z",
       "timeET": "8:00 PM ET",
       "channels": [
-        "USA Net",
-        "CNBC",
-        "Peacock"
+        "NBA League Pass",
+        "GCSEN",
+        "Pelicans.com"
       ],
       "status": "upcoming",
-      "isNational": true
+      "venue": "Smoothie King Center, New Orleans, LA"
     },
     {
       "id": "nhl-401892604",
@@ -303,12 +320,12 @@
       "homeTeam": {
         "name": "St. Louis Blues",
         "abbreviation": "STL",
-        "record": "2-2-1"
+        "record": "5-6-1"
       },
       "awayTeam": {
         "name": "Boston Bruins",
         "abbreviation": "BOS",
-        "record": "4-2-0"
+        "record": "9-3-1"
       },
       "startTime": "2026-10-30T00:00Z",
       "timeET": "8:00 PM ET",
@@ -328,12 +345,12 @@
       "homeTeam": {
         "name": "Nashville Predators",
         "abbreviation": "NSH",
-        "record": "2-1-2"
+        "record": "4-3-5"
       },
       "awayTeam": {
         "name": "Washington Capitals",
         "abbreviation": "WSH",
-        "record": "3-1-0"
+        "record": "7-4-0"
       },
       "startTime": "2026-10-30T00:00Z",
       "timeET": "8:00 PM ET",
@@ -352,12 +369,12 @@
       "homeTeam": {
         "name": "Dallas Stars",
         "abbreviation": "DAL",
-        "record": "2-2-1"
+        "record": "7-4-1"
       },
       "awayTeam": {
         "name": "Montreal Canadiens",
         "abbreviation": "MTL",
-        "record": "2-2-1"
+        "record": "7-3-2"
       },
       "startTime": "2026-10-30T00:00Z",
       "timeET": "8:00 PM ET",
@@ -375,12 +392,12 @@
       "homeTeam": {
         "name": "Minnesota Wild",
         "abbreviation": "MIN",
-        "record": "3-1-1"
+        "record": "9-3-2"
       },
       "awayTeam": {
         "name": "New York Islanders",
         "abbreviation": "NYI",
-        "record": "2-3-0"
+        "record": "6-4-2"
       },
       "startTime": "2026-10-30T00:00Z",
       "timeET": "8:00 PM ET",
@@ -399,12 +416,12 @@
       "homeTeam": {
         "name": "Green Bay Packers",
         "abbreviation": "GB",
-        "record": "2-2"
+        "record": "4-3"
       },
       "awayTeam": {
         "name": "Carolina Panthers",
         "abbreviation": "CAR",
-        "record": "2-2"
+        "record": "3-3"
       },
       "startTime": "2026-10-30T00:15Z",
       "timeET": "8:15 PM ET",
@@ -421,16 +438,21 @@
       "homeTeam": {
         "name": "Portland Trail Blazers",
         "abbreviation": "POR",
-        "record": "0-0"
+        "record": "3-0"
       },
       "awayTeam": {
         "name": "Memphis Grizzlies",
         "abbreviation": "MEM",
-        "record": "0-0"
+        "record": "4-0"
       },
       "startTime": "2026-10-30T02:00Z",
       "timeET": "10:00 PM ET",
-      "channels": [],
+      "channels": [
+        "NBA League Pass",
+        "DAZN MEM",
+        "KUNP 16",
+        "BlazerVision"
+      ],
       "status": "upcoming",
       "venue": "Moda Center, Portland, OR"
     },
@@ -440,12 +462,12 @@
       "homeTeam": {
         "name": "Anaheim Ducks",
         "abbreviation": "ANA",
-        "record": "4-1-0"
+        "record": "5-6-1"
       },
       "awayTeam": {
         "name": "Buffalo Sabres",
         "abbreviation": "BUF",
-        "record": "2-3-0"
+        "record": "5-4-3"
       },
       "startTime": "2026-10-30T02:00Z",
       "timeET": "10:00 PM ET",
@@ -464,12 +486,12 @@
       "homeTeam": {
         "name": "Los Angeles Kings",
         "abbreviation": "LA",
-        "record": "0-2-2"
+        "record": "3-6-2"
       },
       "awayTeam": {
         "name": "Ottawa Senators",
         "abbreviation": "OTT",
-        "record": "4-1-0"
+        "record": "8-5-0"
       },
       "startTime": "2026-10-30T02:00Z",
       "timeET": "10:00 PM ET",
@@ -487,12 +509,12 @@
       "homeTeam": {
         "name": "San Jose Sharks",
         "abbreviation": "SJ",
-        "record": "3-2-0"
+        "record": "6-6-1"
       },
       "awayTeam": {
         "name": "Vancouver Canucks",
         "abbreviation": "VAN",
-        "record": "2-4-0"
+        "record": "3-10-1"
       },
       "startTime": "2026-10-30T02:00Z",
       "timeET": "10:00 PM ET",
@@ -505,5 +527,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-10-11T10:00:24.669Z"
+  "lastUpdated": "2026-10-29T10:00:06.191Z"
 }

@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-29",
+  "scheduleHash": "e9cf907cf2e71af3e9fc28c21ffb6392484f720e01287b5e56dd4d48d85c2d56",
+  "reason": "verification",
+  "source": "openai",
+  "generatedAt": "2026-10-29T10:00:14.076Z",
+  "model": "gpt-5.4-mini",
+  "maxOutputTokens": 1200,
+  "openAiUsage": {
+    "input_tokens": 864,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 433,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 1297
+  }
+}
