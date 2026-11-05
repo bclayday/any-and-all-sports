@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-05",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "72 events across Golf, Soccer, College Basketball, NHL, College Football, NFL, NBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at World Wide Technology Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at TOTO Japan Classic 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "DP World Tour at Abu Dhabi Aldar Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 4",
+      "body": "Ferencvaros at AC Milan 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 5",
+      "body": "RB Salzburg at Anderlecht 12:45 PM ET on Paramount+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png",
+    "slide-10.png",
+    "slide-11.png",
+    "slide-12.png",
+    "slide-13.png"
+  ],
+  "generatedAt": "2026-11-05T11:00:09.161Z"
+}
