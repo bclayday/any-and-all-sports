@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-06",
+  "slides": [
+    {
+      "title": "Friday's Top Slate",
+      "body": "Golf, F1, soccer, college hoops, and NBA all on the board today."
+    },
+    {
+      "title": "Golf All Day",
+      "body": "PGA Tour, LPGA, and DP World Tour all tee off at 12:00 AM ET on Golf Channel."
+    },
+    {
+      "title": "Soccer Windows",
+      "body": "Key matches on USA/Universo, ESPN Deportes/ESPN+, Paramount+, beIN Sports, and Fandango."
+    },
+    {
+      "title": "Prime-Time Hoops",
+      "body": "NBA starts at 7:00 PM ET: Wizards-Hawks on MNMT, Celtics-Hornets on local coverage."
+    },
+    {
+      "title": "College Basketball",
+      "body": "Virginia, Kentucky, Notre Dame, and Oklahoma State are all in action on ACC/SEC/ESPN+."
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png",
+    "slide-10.png"
+  ],
+  "generatedAt": "2026-11-06T11:00:09.555Z"
+}
