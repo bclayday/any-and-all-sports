@@ -42,6 +42,7 @@ const SPORTS = [
   // Football
   { sport: 'football',   league: 'nfl',                      category: 'NFL',                abbr: 'nfl'        },
   { sport: 'football',   league: 'college-football',         category: 'College Football',   abbr: 'cfb'        },
+  { sport: 'football',   league: 'college-football', groups: '81', category: 'College Football', abbr: 'swac', swacTeamsOnly: true },
   // Baseball
   { sport: 'baseball',   league: 'mlb',                      category: 'MLB',                abbr: 'mlb'        },
   // Hockey
@@ -498,7 +499,7 @@ async function fetchSport(sportConfig, espnDate) {
   const { sport, league } = sportConfig;
   const url =
     `https://site.api.espn.com/apis/site/v2/sports/${sport}/${league}/scoreboard` +
-    `?limit=100${espnDate ? `&dates=${espnDate}` : ''}`;
+    `?limit=100${sportConfig.groups ? `&groups=${sportConfig.groups}` : ''}${espnDate ? `&dates=${espnDate}` : ''}`;
 
   console.log(`  Fetching ${league.toUpperCase()} …`);
 
@@ -513,7 +514,22 @@ async function fetchSport(sportConfig, espnDate) {
 
   const data = await res.json();
   const events = data.events ?? [];
-  const games = events.map(e => mapEventToGame(e, sportConfig)).filter(Boolean);
+  let games = events.map(e => mapEventToGame(e, sportConfig)).filter(Boolean);
+
+  // SWAC: FCS group (81) returns all of Division I FCS; keep only SWAC schools
+  if (sportConfig.swacTeamsOnly) {
+    const SWAC_MATCHERS = [
+      'Alabama A&M', 'Alabama State', 'Alcorn State', 'Arkansas-Pine Bluff',
+      'Bethune-Cookman', 'Florida A&M', 'Grambling', 'Jackson State',
+      'Mississippi Valley State', 'Prairie View', 'Texas Southern', 'Southern Jaguars',
+    ];
+    games = games.filter(g =>
+      SWAC_MATCHERS.some(m =>
+        `${g.homeTeam?.name ?? ''} ${g.awayTeam?.name ?? ''}`.includes(m)
+      )
+    );
+    for (const g of games) g.tournament = 'SWAC';
+  }
 
   if (sportConfig.abbr === 'fifawc' || sportConfig.abbr === 'fifawwc') {
     const summaryResults = await Promise.allSettled(

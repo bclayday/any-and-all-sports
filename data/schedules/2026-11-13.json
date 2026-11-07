@@ -1,0 +1,922 @@
+{
+  "date": "2026-11-13",
+  "games": [
+    {
+      "id": "pga-401850980",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "Austin Championship"
+      },
+      "awayTeam": {
+        "name": "PGA Tour"
+      },
+      "startTime": "2026-11-12T05:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "ESPN+",
+        "Golf Chnl"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "PGA Tour"
+    },
+    {
+      "id": "lpga-401835176",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "The ANNIKA driven by Gainbridge at Pelican"
+      },
+      "awayTeam": {
+        "name": "LPGA"
+      },
+      "startTime": "2026-11-12T05:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "CNBC",
+        "Golf Chnl"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "LPGA"
+    },
+    {
+      "id": "champs-401832050",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "Charles Schwab Cup Championship"
+      },
+      "awayTeam": {
+        "name": "Champions Tour"
+      },
+      "startTime": "2026-11-12T05:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "Golf Chnl"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "Champions Tour"
+    },
+    {
+      "id": "dpwt-401822709",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "DP World Tour Championship"
+      },
+      "awayTeam": {
+        "name": "DP World Tour"
+      },
+      "startTime": "2026-11-12T05:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [],
+      "status": "upcoming",
+      "tournament": "DP World Tour"
+    },
+    {
+      "id": "nbl-401875310",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "New Zealand Breakers",
+        "abbreviation": "NZL",
+        "record": "4-6"
+      },
+      "awayTeam": {
+        "name": "Brisbane Bullets",
+        "abbreviation": "BRI",
+        "record": "5-5"
+      },
+      "startTime": "2026-11-13T06:30Z",
+      "timeET": "1:30 AM ET",
+      "channels": [],
+      "status": "upcoming"
+    },
+    {
+      "id": "nbl-401875299",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Cairns Taipans",
+        "abbreviation": "CNS",
+        "record": "6-5"
+      },
+      "awayTeam": {
+        "name": "Sydney Kings",
+        "abbreviation": "SYD",
+        "record": "7-3"
+      },
+      "startTime": "2026-11-13T08:30Z",
+      "timeET": "3:30 AM ET",
+      "channels": [],
+      "status": "upcoming"
+    },
+    {
+      "id": "ncaaw-401918773",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Oklahoma Sooners",
+        "abbreviation": "OU",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Oral Roberts Golden Eagles",
+        "abbreviation": "ORU",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-13T16:30Z",
+      "timeET": "11:30 AM ET",
+      "channels": [
+        "SECN+"
+      ],
+      "status": "upcoming",
+      "venue": "Lloyd Noble Center, Norman, OK",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401921721",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Miami Hurricanes",
+        "abbreviation": "MIA",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "North Alabama Lions",
+        "abbreviation": "UNA",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-13T22:00Z",
+      "timeET": "5:00 PM ET",
+      "channels": [
+        "ACC Network"
+      ],
+      "status": "upcoming",
+      "venue": "Watsco Center, Coral Gables, FL",
+      "isNational": true
+    },
+    {
+      "id": "ncaaw-401907166",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "West Virginia Mountaineers",
+        "abbreviation": "WVU",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Northwestern Wildcats",
+        "abbreviation": "NU",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-13T22:30Z",
+      "timeET": "5:30 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Colonial Hall, White Sulphur Springs, WV"
+    },
+    {
+      "id": "gleague-401914537",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Motor City Cruise",
+        "abbreviation": "MCC",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Noblesville Boom",
+        "abbreviation": "NOB",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-13T23:30Z",
+      "timeET": "6:30 PM ET",
+      "channels": [
+        "NBA App"
+      ],
+      "status": "upcoming",
+      "venue": "Wayne State Fieldhouse, Detroit, MI"
+    },
+    {
+      "id": "nba-401909296",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Indiana Pacers",
+        "abbreviation": "IND",
+        "record": "2-4"
+      },
+      "awayTeam": {
+        "name": "New York Knicks",
+        "abbreviation": "NY",
+        "record": "2-4"
+      },
+      "startTime": "2026-11-14T00:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "Amazon Prime"
+      ],
+      "status": "upcoming",
+      "venue": "Gainbridge Fieldhouse, Indianapolis, IN",
+      "isNational": true
+    },
+    {
+      "id": "nba-401909297",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Orlando Magic",
+        "abbreviation": "ORL",
+        "record": "2-3"
+      },
+      "awayTeam": {
+        "name": "Milwaukee Bucks",
+        "abbreviation": "MIL",
+        "record": "1-5"
+      },
+      "startTime": "2026-11-14T00:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "MyMi",
+        "Bucks App"
+      ],
+      "status": "upcoming",
+      "venue": "Kia Center, Orlando, FL"
+    },
+    {
+      "id": "ncaam-401906772",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Florida Gators",
+        "abbreviation": "FLA",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Merrimack Warriors",
+        "abbreviation": "MRMK",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T00:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "SEC Network"
+      ],
+      "status": "upcoming",
+      "venue": "Stephen C. O'Connell Center, Gainesville, FL",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401913528",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Illinois Fighting Illini",
+        "abbreviation": "ILL",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Sam Houston Bearkats",
+        "abbreviation": "SHSU",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T00:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "B1G+"
+      ],
+      "status": "upcoming",
+      "venue": "State Farm Center, Champaign, IL",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401925755",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Michigan State Spartans",
+        "abbreviation": "MSU",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Northern Iowa Panthers",
+        "abbreviation": "UNI",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T00:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "FS1"
+      ],
+      "status": "upcoming",
+      "venue": "Breslin Center, East Lansing, MI",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401906850",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Tennessee Volunteers",
+        "abbreviation": "TENN",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Tennessee State Tigers",
+        "abbreviation": "TNST",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T00:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "SECN+"
+      ],
+      "status": "upcoming",
+      "venue": "Food City Center, Knoxville, TN",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401921803",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Kentucky Wildcats",
+        "abbreviation": "UK",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Northern Arizona Lumberjacks",
+        "abbreviation": "NAU",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T00:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "SECN+"
+      ],
+      "status": "upcoming",
+      "venue": "Rupp Arena, Lexington, KY",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401921825",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Vanderbilt Commodores",
+        "abbreviation": "VAN",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Prairie View A&M Panthers",
+        "abbreviation": "PV",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T00:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "SECN+"
+      ],
+      "status": "upcoming",
+      "venue": "Memorial Gymnasium (TN), Nashville, TN",
+      "isNational": true
+    },
+    {
+      "id": "ncaaw-401912967",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "LSU Tigers",
+        "abbreviation": "LSU",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Denver Pioneers",
+        "abbreviation": "DEN",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T00:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "SECN+"
+      ],
+      "status": "upcoming",
+      "venue": "Pete Maravich Assembly Center, Baton Rouge, LA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858293",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Pittsburgh Panthers",
+        "abbreviation": "PITT",
+        "record": "6-3"
+      },
+      "awayTeam": {
+        "name": "Florida State Seminoles",
+        "abbreviation": "FSU",
+        "record": "3-5"
+      },
+      "startTime": "2026-11-14T00:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "upcoming",
+      "venue": "Acrisure Stadium, Pittsburgh, PA",
+      "isNational": true
+    },
+    {
+      "id": "gleague-401914539",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Long Island Nets",
+        "abbreviation": "LIN",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "College Park Skyhawks",
+        "abbreviation": "CPS",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T00:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "Roku",
+        "NBA App"
+      ],
+      "status": "upcoming",
+      "venue": "Nassau Veterans Memorial Coliseum, Uniondale, NY",
+      "isNational": true
+    },
+    {
+      "id": "gleague-401914538",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Delaware Blue Coats",
+        "abbreviation": "DEL",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Maine Celtics",
+        "abbreviation": "MNE",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T00:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "NBA App"
+      ],
+      "status": "upcoming",
+      "venue": "Chase Fieldhouse, Wilmington, DE"
+    },
+    {
+      "id": "ncaam-401916316",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "UConn Huskies",
+        "abbreviation": "CONN",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Ohio State Buckeyes",
+        "abbreviation": "OSU",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T00:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "TNT"
+      ],
+      "status": "upcoming",
+      "venue": "PeoplesBank Arena, Hartford, CT",
+      "isNational": true
+    },
+    {
+      "id": "nba-401909298",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Miami Heat",
+        "abbreviation": "MIA",
+        "record": "2-4"
+      },
+      "awayTeam": {
+        "name": "Cleveland Cavaliers",
+        "abbreviation": "CLE",
+        "record": "4-2"
+      },
+      "startTime": "2026-11-14T01:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "DAZN CLE"
+      ],
+      "status": "upcoming",
+      "venue": "Kaseya Center, Miami, FL"
+    },
+    {
+      "id": "nba-401909299",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Chicago Bulls",
+        "abbreviation": "CHI",
+        "record": "1-5"
+      },
+      "awayTeam": {
+        "name": "Atlanta Hawks",
+        "abbreviation": "ATL",
+        "record": "3-4"
+      },
+      "startTime": "2026-11-14T01:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "United Center, Chicago, IL"
+    },
+    {
+      "id": "nba-401909300",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "New Orleans Pelicans",
+        "abbreviation": "NO",
+        "record": "2-4"
+      },
+      "awayTeam": {
+        "name": "Memphis Grizzlies",
+        "abbreviation": "MEM",
+        "record": "6-0"
+      },
+      "startTime": "2026-11-14T01:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "GCSEN",
+        "Pelicans.com",
+        "DAZN MEM"
+      ],
+      "status": "upcoming",
+      "venue": "Smoothie King Center, New Orleans, LA"
+    },
+    {
+      "id": "ncaam-401909565",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Duke Blue Devils",
+        "abbreviation": "DUKE",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "SIU Edwardsville Cougars",
+        "abbreviation": "SIUE",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T01:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "CW"
+      ],
+      "status": "upcoming",
+      "venue": "Cameron Indoor Stadium, Durham, NC",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401916297",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Maryland Terrapins",
+        "abbreviation": "MD",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Virginia Cavaliers",
+        "abbreviation": "UVA",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T01:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "Peacock"
+      ],
+      "status": "upcoming",
+      "venue": "XFINITY Center, College Park, MD",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401917916",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Arkansas Razorbacks",
+        "abbreviation": "ARK",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Central Arkansas Bears",
+        "abbreviation": "CARK",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T01:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "SECN+"
+      ],
+      "status": "upcoming",
+      "venue": "Bud Walton Arena, Fayetteville, AR",
+      "isNational": true
+    },
+    {
+      "id": "gleague-401914541",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Texas Legends",
+        "abbreviation": "TEX",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Rio Grande Valley Vipers",
+        "abbreviation": "RGV",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T01:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "NBA App"
+      ],
+      "status": "upcoming",
+      "venue": "Comerica Center, Frisco, TX"
+    },
+    {
+      "id": "gleague-401914540",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Memphis Hustle",
+        "abbreviation": "MHU",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Oklahoma City Blue",
+        "abbreviation": "OKL",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T01:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "NBA App"
+      ],
+      "status": "upcoming",
+      "venue": "Landers Center, Southaven, MS"
+    },
+    {
+      "id": "nba-401909301",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Houston Rockets",
+        "abbreviation": "HOU",
+        "record": "6-1"
+      },
+      "awayTeam": {
+        "name": "Utah Jazz",
+        "abbreviation": "UTAH",
+        "record": "1-5"
+      },
+      "startTime": "2026-11-14T01:30Z",
+      "timeET": "8:30 PM ET",
+      "channels": [
+        "KJZZ-TV",
+        "Jazz+"
+      ],
+      "status": "upcoming",
+      "venue": "Toyota Center (Houston), Houston, TX"
+    },
+    {
+      "id": "ncaam-401909741",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Auburn Tigers",
+        "abbreviation": "AUB",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Arizona Wildcats",
+        "abbreviation": "ARIZ",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T02:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "ESPN2"
+      ],
+      "status": "upcoming",
+      "venue": "Neville Arena, Auburn, AL",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401906760",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Alabama Crimson Tide",
+        "abbreviation": "ALA",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Seton Hall Pirates",
+        "abbreviation": "HALL",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T02:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "SEC Network"
+      ],
+      "status": "upcoming",
+      "venue": "Coleman Coliseum, Tuscaloosa, AL",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858526",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "UCLA Bruins",
+        "abbreviation": "UCLA",
+        "record": "8-0"
+      },
+      "awayTeam": {
+        "name": "Illinois Fighting Illini",
+        "abbreviation": "ILL",
+        "record": "5-3"
+      },
+      "startTime": "2026-11-14T02:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "Fox"
+      ],
+      "status": "upcoming",
+      "venue": "Rose Bowl, Pasadena, CA",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401892706",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Vancouver Canucks",
+        "abbreviation": "VAN",
+        "record": "3-12-1"
+      },
+      "awayTeam": {
+        "name": "New York Rangers",
+        "abbreviation": "NYR",
+        "record": "7-6-1"
+      },
+      "startTime": "2026-11-14T02:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "MSGSN"
+      ],
+      "status": "upcoming",
+      "venue": "Rogers Arena, Vancouver, BC",
+      "isNational": true
+    },
+    {
+      "id": "nba-401909302",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "San Antonio Spurs",
+        "abbreviation": "SA",
+        "record": "4-2"
+      },
+      "awayTeam": {
+        "name": "Golden State Warriors",
+        "abbreviation": "GS",
+        "record": "3-3"
+      },
+      "startTime": "2026-11-14T02:30Z",
+      "timeET": "9:30 PM ET",
+      "channels": [
+        "Amazon Prime"
+      ],
+      "status": "upcoming",
+      "venue": "Frost Bank Center, San Antonio, TX",
+      "isNational": true
+    },
+    {
+      "id": "nba-401909303",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Sacramento Kings",
+        "abbreviation": "SAC",
+        "record": "0-6"
+      },
+      "awayTeam": {
+        "name": "Portland Trail Blazers",
+        "abbreviation": "POR",
+        "record": "4-1"
+      },
+      "startTime": "2026-11-14T03:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "KUNP 16",
+        "BlazerVision"
+      ],
+      "status": "upcoming",
+      "venue": "Golden 1 Center, Sacramento, CA"
+    },
+    {
+      "id": "nhl-401892707",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Vegas Golden Knights",
+        "abbreviation": "VGK",
+        "record": "9-5-1"
+      },
+      "awayTeam": {
+        "name": "Nashville Predators",
+        "abbreviation": "NSH",
+        "record": "5-4-5"
+      },
+      "startTime": "2026-11-14T03:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "Scripps Sports"
+      ],
+      "status": "upcoming",
+      "venue": "T-Mobile Arena, Las Vegas, NV",
+      "isNational": true
+    },
+    {
+      "id": "gleague-401914543",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Stockton Kings",
+        "abbreviation": "STO",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Rip City Remix",
+        "abbreviation": "RCITY",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T03:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "NBA App"
+      ],
+      "status": "upcoming",
+      "venue": "Adventist Health Arena, Stockton, CA"
+    },
+    {
+      "id": "gleague-401914542",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Santa Cruz Warriors",
+        "abbreviation": "SCW",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "San Diego Clippers",
+        "abbreviation": "SAN",
+        "record": "0-0"
+      },
+      "startTime": "2026-11-14T03:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "Roku",
+        "NBA App"
+      ],
+      "status": "upcoming",
+      "venue": "Kaiser Permanente Arena, Santa Cruz, CA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856860",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Colorado Buffaloes",
+        "abbreviation": "COLO",
+        "record": "3-5"
+      },
+      "awayTeam": {
+        "name": "Houston Cougars",
+        "abbreviation": "HOU",
+        "record": "6-2"
+      },
+      "startTime": "2026-11-14T03:15Z",
+      "timeET": "10:15 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "upcoming",
+      "venue": "Folsom Field, Boulder, CO",
+      "isNational": true
+    },
+    {
+      "id": "nba-401909304",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "LA Clippers",
+        "abbreviation": "LAC",
+        "record": "1-4"
+      },
+      "awayTeam": {
+        "name": "Oklahoma City Thunder",
+        "abbreviation": "OKC",
+        "record": "4-2"
+      },
+      "startTime": "2026-11-14T03:30Z",
+      "timeET": "10:30 PM ET",
+      "channels": [
+        "KSBI",
+        "Thunder App",
+        "KTLA",
+        "ClipperVision"
+      ],
+      "status": "upcoming",
+      "venue": "Intuit Dome, Inglewood, CA"
+    }
+  ],
+  "lastUpdated": "2026-11-01T11:00:19.165Z"
+}
